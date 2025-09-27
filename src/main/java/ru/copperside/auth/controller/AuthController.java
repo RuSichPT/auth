@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import ru.copperside.auth.dto.AuthInfo;
 import ru.copperside.auth.service.AuthService;
 
 import java.time.LocalDateTime;
@@ -45,5 +46,10 @@ public class AuthController {
         headers.add(TIMESTAMP, LocalDateTime.now().toString());
 
         return headers;
+    }
+
+    @GetMapping("/{authId}")
+    public AuthInfo authentication(@PathVariable("authId") long authId) {
+        return authService.getAuthInfo(authId);
     }
 }

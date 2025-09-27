@@ -1,9 +1,10 @@
 package ru.copperside.auth.service;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import ru.copperside.auth.utils.SecretEncoder;
 import ru.copperside.auth.dto.*;
 import ru.copperside.auth.entity.AuthData;
 import ru.copperside.auth.entity.InheritedPermissionDb;
@@ -11,11 +12,13 @@ import ru.copperside.auth.entity.InheritedRolePermissionDb;
 import ru.copperside.auth.exception.InvalidSignException;
 import ru.copperside.auth.helper.AuthHelper;
 import ru.copperside.auth.repository.AuthDataRepository;
+import ru.copperside.auth.utils.SecretEncoder;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
+import java.time.LocalTime;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.List;
@@ -29,7 +32,9 @@ import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpect
 public class AuthService {
     private final AuthDataRepository authDataRepository;
     private final HierarchyAndPermissionService hierarchyAndPermissionService;
+    private final AuthInfoService authInfoService;
     private final AuthHelper authHelper;
+    private final ObjectMapper objectMapper;
 
     public void validateSignature(String login, String signature, String body) {
         AuthData authData = authDataRepository.findAuthData(login);
@@ -59,7 +64,43 @@ public class AuthService {
         }
     }
 
-    public HierarchyCompilePermission getHierarchyPermissionsAsync(Long hierarchyId) {
+    public AuthInfo getAuthInfo(long authId) {
+        log.info("Получение AuthInfo по authId: {}", authId);
+        AuthInfo result = new AuthInfo();
+        try {
+            AuthInfoDb authInfoDb = authInfoService.getAuthInfo(authId);
+            if (authInfoDb == null) {
+                return null;
+            }
+            result.setAuthId(authInfoDb.getAuthId());
+            result.setHierarchyId(authInfoDb.getHierarchyId());
+            result.setDisplayName(authInfoDb.getDisplayName());
+
+            parseAndSetParameters(authInfoDb, result);
+
+            result.setPermissions(getHierarchyPermissions(authInfoDb.getHierarchyId()).getCompilePermission());
+
+            Map<String, String> privateData = new HashMap<>();
+            authInfoService.getPrivateData(authId).forEach(pair -> privateData.put(pair.getKey(), pair.getValue()));
+            result.setPrivateData(privateData);
+
+            result.setSessionSettings(new SessionSettings());
+            authInfoService.getRoleSettingsDb(authId).forEach(roleSettingsDb -> {
+                mergeSettings(result.getSessionSettings(), roleSettingsDb.getSettings(), true, authId);
+            });
+            mergeSettings(result.getSessionSettings(), authInfoDb.getSettings(), false, authId);
+
+            Map<String, String> sessionData = new HashMap<>();
+            result.setSessionData(sessionData);
+            sessionData.put("DisplayName", authInfoDb.getDisplayName());
+            authInfoService.getSessionData(authId).forEach(pair -> sessionData.put(pair.getKey(), pair.getValue()));
+        } catch (Exception ex) {
+            throwBusinessUnexpected(ex);
+        }
+        return result;
+    }
+
+    public HierarchyCompilePermission getHierarchyPermissions(Long hierarchyId) {
         HierarchyCompilePermission result = new HierarchyCompilePermission();
         try {
             List<InheritedRolePermissionDb> rolePermissions = hierarchyAndPermissionService.findRolePermissions(hierarchyId);
@@ -205,5 +246,60 @@ public class AuthService {
         return result;
     }
 
+    private void parseAndSetParameters(AuthInfoDb authInfoDb, AuthInfo authInfo) {
+        try {
+            if (authInfoDb.getParameters() != null) {
+                JsonNode jsonNode = objectMapper.readTree(authInfoDb.getParameters());
+                authInfo.setIsEnabled(getBooleanOrFalse(jsonNode, "IsEnabled"));
+                authInfo.setNeedActivation(getBooleanOrFalse(jsonNode, "NeedActivation"));
+            }
+        } catch (Exception ex) {
+            log.warn("Ошибка при десериализации поля PARAMETERS у authId: {}", authInfoDb.getAuthId(), ex);
+        }
+    }
 
+    private void mergeSettings(SessionSettings currentSettings, String jsonSettings, Boolean needOverwrite, long authId) {
+        try {
+            if (jsonSettings != null) {
+                JsonNode jsonNode = objectMapper.readTree(jsonSettings);
+                if (jsonNode.get("AuthProlongation") != null) {
+                    if (currentSettings.getAuthProlongation() == null || needOverwrite) {
+                        currentSettings.setAuthProlongation(jsonNode.get("AuthProlongation").asBoolean());
+                    }
+                }
+                if (jsonNode.get("OneActiveSession") != null) {
+                    if (currentSettings.getAuthProlongation() == null || needOverwrite) {
+                        currentSettings.setAuthProlongation(jsonNode.get("OneActiveSession").asBoolean());
+                    }
+                }
+                if (jsonNode.get("IgnoreConfirmation") != null) {
+                    if (currentSettings.getAuthProlongation() == null || needOverwrite) {
+                        currentSettings.setAuthProlongation(jsonNode.get("IgnoreConfirmation").asBoolean());
+                    }
+                }
+                if (jsonNode.get("InMemory") != null) {
+                    if (currentSettings.getAuthProlongation() == null || needOverwrite) {
+                        currentSettings.setAuthProlongation(jsonNode.get("InMemory").asBoolean());
+                    }
+                }
+                if (jsonNode.get("Ttl") != null) {
+                    if (currentSettings.getAuthProlongation() == null || needOverwrite) {
+                        LocalTime ttl = LocalTime.parse(jsonNode.get("Ttl").asText());
+                        currentSettings.setTtl(ttl);
+                    }
+                }
+            }
+        } catch (Exception ex) {
+            log.warn("Ошибка при десериализации поля SETTINGS у authId: {}", authId, ex);
+        }
+    }
+
+    private Boolean getBooleanOrFalse(JsonNode jsonNode, String fieldName) {
+        JsonNode field = jsonNode.get(fieldName);
+        if (field != null) {
+            return field.asBoolean();
+        } else {
+            return false;
+        }
+    }
 }
