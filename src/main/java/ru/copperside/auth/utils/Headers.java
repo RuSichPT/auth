@@ -3,7 +3,7 @@ package ru.copperside.auth.utils;
 import lombok.experimental.UtilityClass;
 
 @UtilityClass
-public class TcbHeaders {
+public class Headers {
     public static final String LOGIN = "TCB-Header-Login";
     public static final String SIGNATURE = "TCB-Header-Sign";
     public static final String URI = "TCB-URI";
@@ -11,4 +11,5 @@ public class TcbHeaders {
     public static final String TIMEOUT = "TCB-Header-Timeout";
     public static final String SESSION = "TCB-Header-Session";
     public static final String TIMESTAMP = "TCB-Header-TimeStamp";
+    public static final String FORWARD_FOR = "X-Forwarded-For";
 }

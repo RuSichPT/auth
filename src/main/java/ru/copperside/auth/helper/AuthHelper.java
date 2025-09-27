@@ -51,9 +51,18 @@ public class AuthHelper {
         }
     }
 
-    public <T> T convertObject(String object, Class<T> clazz) {
+    public <T> T convertJsonToObject(String object, Class<T> clazz) {
         try {
             return objectMapper.readValue(object, clazz);
+        } catch (Exception ex) {
+            logAndThrow(ex, JSON_PROCESSING_ERROR);
+            throw new JsonConversionException();
+        }
+    }
+
+    public String convertObjectToJson(Object object) {
+        try {
+            return objectMapper.writeValueAsString(object);
         } catch (Exception ex) {
             logAndThrow(ex, JSON_PROCESSING_ERROR);
             throw new JsonConversionException();

@@ -5,14 +5,21 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import ru.copperside.auth.dto.ErrorResponse;
-import ru.copperside.auth.exception.InvalidSignException;
+import ru.copperside.auth.exception.ForbiddenException;
+import ru.copperside.auth.exception.InvalidUserNameOrSignature;
 
 @ControllerAdvice
 public class ExceptionHandlerController {
 
-    @ExceptionHandler(InvalidSignException.class)
-    public final ResponseEntity<ErrorResponse> handleBusinessException(InvalidSignException ex) {
+    @ExceptionHandler(InvalidUserNameOrSignature.class)
+    public final ResponseEntity<ErrorResponse> handleInvalidPermissionException(InvalidUserNameOrSignature ex) {
         return ResponseEntity.status(HttpStatus.UNAUTHORIZED)
+                .body(new ErrorResponse("Error", ex.getMessage()));
+    }
+
+    @ExceptionHandler(ForbiddenException.class)
+    public final ResponseEntity<ErrorResponse> handleInvalidPermissionException(ForbiddenException ex) {
+        return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body(new ErrorResponse("Error", ex.getMessage()));
     }
 }

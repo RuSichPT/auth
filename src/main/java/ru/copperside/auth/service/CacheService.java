@@ -24,7 +24,7 @@ public class CacheService {
         try {
             String value = redisTemplate.opsForValue().get(key);
             if (value != null) {
-                response = authHelper.convertObject(value, entityClass);
+                response = authHelper.convertJsonToObject(value, entityClass);
             }
         } catch (Exception ex) {
             logAndThrow(ex, "Ошибка при поиске Key в RedisCache для key=%s", key);

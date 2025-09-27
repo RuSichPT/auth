@@ -6,17 +6,18 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.copperside.auth.dto.AuthInfo;
 import ru.copperside.auth.dto.SessionInfo;
 import ru.copperside.auth.helper.AuthHelper;
 import ru.copperside.auth.service.AuthService;
 import ru.copperside.auth.service.CacheService;
+import ru.copperside.auth.utils.SessionInfoCodec;
 
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDateTime;
+import java.util.Map;
 import java.util.UUID;
 
-import static ru.copperside.auth.utils.TcbHeaders.*;
+import static ru.copperside.auth.utils.Headers.*;
 
 @RestController
 @RequestMapping("auth")
@@ -37,16 +38,14 @@ public class AuthController {
     public Long ttl;
 
     @PostMapping
-    public ResponseEntity<String> authentication(@RequestHeader(LOGIN) String login,
-                                                 @RequestHeader(SIGNATURE) String signature,
-                                                 @RequestHeader(URI) String uri,
+    public ResponseEntity<String> authentication(@RequestHeader Map<String, String> headers,
                                                  @RequestBody String body) {
-        authService.validateSignature(login, signature, body);
-
+        SessionInfo sessionInfo = authService.auth(headers, body);
+        log.info("{}", sessionInfo);
 
         return ResponseEntity.ok()
                 .headers(createHeaders())
-                .body(body);
+                .body(body + SessionInfoCodec.serializeToBase64(authHelper.convertObjectToJson(sessionInfo)));
     }
 
     private HttpHeaders createHeaders() {
@@ -71,11 +70,6 @@ public class AuthController {
         } catch (Exception ex) {
 
         }
-       return response;
-    }
-
-    @GetMapping("/{authId}")
-    public AuthInfo authentication(@PathVariable("authId") long authId) {
-        return authService.getAuthInfo(authId);
+        return response;
     }
 }

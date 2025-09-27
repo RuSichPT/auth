@@ -9,8 +9,10 @@ import ru.copperside.auth.dto.*;
 import ru.copperside.auth.entity.AuthData;
 import ru.copperside.auth.entity.InheritedPermissionDb;
 import ru.copperside.auth.entity.InheritedRolePermissionDb;
-import ru.copperside.auth.exception.InvalidSignException;
+import ru.copperside.auth.exception.ForbiddenException;
+import ru.copperside.auth.exception.InvalidUserNameOrSignature;
 import ru.copperside.auth.helper.AuthHelper;
+import ru.copperside.auth.mapper.SessionInfoMapper;
 import ru.copperside.auth.repository.AuthDataRepository;
 import ru.copperside.auth.utils.SecretEncoder;
 
@@ -19,13 +21,11 @@ import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.time.LocalTime;
-import java.util.Base64;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Stream;
 
 import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
+import static ru.copperside.auth.utils.Headers.*;
 
 @Service
 @RequiredArgsConstructor
@@ -36,16 +36,38 @@ public class AuthService {
     private final AuthInfoService authInfoService;
     private final AuthHelper authHelper;
     private final ObjectMapper objectMapper;
+    private final SessionInfoMapper sessionInfoMapper;
 
-    public void validateSignature(String login, String signature, String body) {
+    public SessionInfo auth(Map<String, String> headers, String body) {
+        String login = headers.get(LOGIN.toLowerCase());
+        String uri = headers.get(URI.toLowerCase());
+        String signature = headers.get(SIGNATURE.toLowerCase());
+
         AuthData authData = authDataRepository.findAuthData(login);
 
-        validateHMACSignature(authData, signature, body);
+        AuthInfo authInfo = getAuthInfo(authData.getAuthId());
 
-        log.info("{}: данные соответствуют подписи", login);
+        Objects.requireNonNull(authInfo, "authInfo must not be null");
+
+        validateUri(authInfo, uri);
+
+        validateSignature(authData, signature, body);
+
+        return sessionInfoMapper.create(authInfo, headers, login, uri);
     }
 
-    private void validateHMACSignature(AuthData authData, String signatureBase64, String body) {
+
+    private void validateUri(AuthInfo authInfo, String uri) {
+        Permission[] permissions = authInfo.getPermissions();
+        Permission permission = Arrays.stream(permissions)
+                .filter(p -> p.getPermissionStrId().equals(uri.toLowerCase()))
+                .findFirst()
+                .orElseThrow(ForbiddenException::new);
+        log.info(String.valueOf(permission));
+    }
+
+
+    private void validateSignature(AuthData authData, String signatureBase64, String body) {
         try {
             byte[] signature = Base64.getDecoder().decode(signatureBase64);
 
@@ -57,15 +79,16 @@ public class AuthService {
             byte[] hash = mac.doFinal(body.getBytes());
 
             if (!MessageDigest.isEqual(hash, signature)) {
-                throw new InvalidSignException("Forbidden");
+                throw new InvalidUserNameOrSignature();
             }
+            log.info("{}: данные соответствуют подписи", authData.getAuthId());
         } catch (Exception e) {
             log.warn(e.getMessage(), e);
-            throw new InvalidSignException("Forbidden");
+            throw new InvalidUserNameOrSignature();
         }
     }
 
-    public AuthInfo getAuthInfo(long authId) {
+    private AuthInfo getAuthInfo(long authId) {
         log.info("Получение AuthInfo по authId: {}", authId);
         AuthInfo result = new AuthInfo();
         try {

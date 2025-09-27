@@ -23,7 +23,7 @@ public class AuthInfoRepository {
             a.AUTHID WHERE a.AUTHID = :authId
             """;
 
-    private static final String GET_KEY_VALUE_PRIVATEDATA = """
+    private static final String GET_KEY_VALUE_PRIVATE_DATA = """
             SELECT KEY, VALUE FROM PRIVATEDATA WHERE AUTHID = :authId
             """;
 
@@ -35,7 +35,7 @@ public class AuthInfoRepository {
             h.LEVEL
             """;
 
-    private static final String GET_KEY_VALUE_SESSSIONDATA = """
+    private static final String GET_KEY_VALUE_SESSION_DATA = """
                 SELECT hd.KEY, hd.VALUE FROM (SELECT ah.HIERARCHYID, 
             ah.LEVEL FROM AUTHHIERARCHY ah, AUTHHIERARCHY ah2 WHERE ah.LEFTKEY <= 
             ah2.LEFTKEY AND ah.RIGHTKEY >= ah2.RIGHTKEY AND ah2.AUTHID = :authId ) h, 
@@ -51,7 +51,7 @@ public class AuthInfoRepository {
 
     public Stream<KeyValueDataDb> getPrivateData(long authId) {
         return template.queryForStream(
-                GET_KEY_VALUE_PRIVATEDATA,
+                GET_KEY_VALUE_PRIVATE_DATA,
                 Map.of("authId", authId),
                 new BeanPropertyRowMapper<>(KeyValueDataDb.class));
     }
@@ -65,7 +65,7 @@ public class AuthInfoRepository {
 
     public Stream<KeyValueDataDb> getSessionData(long authId) {
         return template.queryForStream(
-                GET_KEY_VALUE_SESSSIONDATA,
+                GET_KEY_VALUE_SESSION_DATA,
                 Map.of("authId", authId),
                 new BeanPropertyRowMapper<>(KeyValueDataDb.class));
     }
