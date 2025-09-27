@@ -23,6 +23,7 @@ import java.util.Base64;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Stream;
 
 import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
 
@@ -81,19 +82,24 @@ public class AuthService {
             result.setPermissions(getHierarchyPermissions(authInfoDb.getHierarchyId()).getCompilePermission());
 
             Map<String, String> privateData = new HashMap<>();
-            authInfoService.getPrivateData(authId).forEach(pair -> privateData.put(pair.getKey(), pair.getValue()));
+            try (Stream<KeyValueDataDb> stream = authInfoService.getPrivateData(authId)) {
+                stream.forEach(pair -> privateData.put(pair.getKey(), pair.getValue()));
+            }
             result.setPrivateData(privateData);
 
             result.setSessionSettings(new SessionSettings());
-            authInfoService.getRoleSettingsDb(authId).forEach(roleSettingsDb -> {
-                mergeSettings(result.getSessionSettings(), roleSettingsDb.getSettings(), true, authId);
-            });
+            try (Stream<RoleSettingsDb> stream = authInfoService.getRoleSettingsDb(authId)) {
+                stream.forEach(roleSettingsDb -> mergeSettings(result.getSessionSettings(),
+                        roleSettingsDb.getSettings(), true, authId));
+            }
             mergeSettings(result.getSessionSettings(), authInfoDb.getSettings(), false, authId);
 
             Map<String, String> sessionData = new HashMap<>();
             result.setSessionData(sessionData);
             sessionData.put("DisplayName", authInfoDb.getDisplayName());
-            authInfoService.getSessionData(authId).forEach(pair -> sessionData.put(pair.getKey(), pair.getValue()));
+            try (Stream<KeyValueDataDb> stream = authInfoService.getSessionData(authId)) {
+                stream.forEach(pair -> sessionData.put(pair.getKey(), pair.getValue()));
+            }
         } catch (Exception ex) {
             throwBusinessUnexpected(ex);
         }
