@@ -4,8 +4,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
-import ru.copperside.auth.dto.InheritedPermissionDb;
-import ru.copperside.auth.dto.InheritedRolePermissionDb;
+import ru.copperside.auth.entity.InheritedPermissionDb;
+import ru.copperside.auth.entity.InheritedRolePermissionDb;
 
 import java.util.List;
 import java.util.Map;

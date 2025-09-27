@@ -4,8 +4,8 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Service;
-import ru.copperside.auth.dto.InheritedPermissionDb;
-import ru.copperside.auth.dto.InheritedRolePermissionDb;
+import ru.copperside.auth.entity.InheritedPermissionDb;
+import ru.copperside.auth.entity.InheritedRolePermissionDb;
 import ru.copperside.auth.repository.HierarchyAndPermissionRepository;
 
 import java.util.List;

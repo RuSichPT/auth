@@ -6,6 +6,8 @@ import org.springframework.stereotype.Service;
 import ru.copperside.auth.crypt.SecretEncoder;
 import ru.copperside.auth.dto.*;
 import ru.copperside.auth.entity.AuthData;
+import ru.copperside.auth.entity.InheritedPermissionDb;
+import ru.copperside.auth.entity.InheritedRolePermissionDb;
 import ru.copperside.auth.exception.InvalidSignException;
 import ru.copperside.auth.helper.AuthHelper;
 import ru.copperside.auth.repository.AuthDataRepository;

@@ -1,4 +1,4 @@
-package ru.copperside.auth.dto;
+package ru.copperside.auth.entity;
 
 import lombok.Data;
 
