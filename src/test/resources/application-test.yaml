@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: auth
+  datasource:
+    url: jdbc:postgresql://localhost:5432/auth
+    username: auth
+    password: auth
