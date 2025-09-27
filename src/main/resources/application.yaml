@@ -6,6 +6,11 @@ spring:
     username: auth
     password: auth
 
+redis:
+  host: localhost
+  port: 6379
+  ttl: 15
+
 app-info:
   artifact-id: ${spring.application.name}
   version: @revision@

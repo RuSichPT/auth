@@ -7,9 +7,14 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import ru.copperside.auth.dto.AuthInfo;
+import ru.copperside.auth.dto.SessionInfo;
+import ru.copperside.auth.helper.AuthHelper;
 import ru.copperside.auth.service.AuthService;
+import ru.copperside.auth.service.CacheService;
 
+import java.nio.charset.StandardCharsets;
 import java.time.LocalDateTime;
+import java.util.UUID;
 
 import static ru.copperside.auth.utils.TcbHeaders.*;
 
@@ -19,11 +24,17 @@ import static ru.copperside.auth.utils.TcbHeaders.*;
 @Slf4j
 public class AuthController {
     private final AuthService authService;
+    private final CacheService cacheService;
+    private final AuthHelper authHelper;
 
     @Value("${header.environment}")
     public String environment;
+
     @Value("${header.timeout}")
     public String timeout;
+
+    @Value("${redis.ttl}")
+    public Long ttl;
 
     @PostMapping
     public ResponseEntity<String> authentication(@RequestHeader(LOGIN) String login,
@@ -46,6 +57,21 @@ public class AuthController {
         headers.add(TIMESTAMP, LocalDateTime.now().toString());
 
         return headers;
+    }
+
+    private SessionInfo getOrSaveCache(String login, String signature, SessionInfo sessionInfo) {
+        SessionInfo response = null;
+        try {
+            String cacheKey = UUID.nameUUIDFromBytes(login.concat(signature).getBytes(StandardCharsets.UTF_8)).toString();
+            response = cacheService.get(cacheKey, SessionInfo.class);
+            if (response == null) {
+                String data = authHelper.valueToJsonNode(sessionInfo);
+                cacheService.set(cacheKey, data, ttl);
+            }
+        } catch (Exception ex) {
+
+        }
+       return response;
     }
 
     @GetMapping("/{authId}")

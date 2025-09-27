@@ -13,7 +13,7 @@ public class LogMessageConstants {
     public static void logAndThrow(Exception e, String message, Object... args) {
         String formattedMessage = args.length > 0 ? String.format(message, args) : message;
 
-        log.warn("{}, Ошибка: {}", formattedMessage, e);
+        log.error("{}, Ошибка: {}", formattedMessage, e);
         throw new DatabaseException(formattedMessage);
     }
 

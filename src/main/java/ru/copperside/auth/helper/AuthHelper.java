@@ -6,20 +6,25 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import ru.copperside.auth.dto.PermissionSettings;
+import ru.copperside.auth.exception.JsonConversionException;
+
+import static ru.copperside.auth.utils.LogMessageConstants.logAndThrow;
 
 @Slf4j
 @Component
 @RequiredArgsConstructor
 public class AuthHelper {
 
-    private final ObjectMapper mapper;
+    public static final String JSON_PROCESSING_ERROR = "Ошибка обработки данных JSON";
+
+    private final ObjectMapper objectMapper;
 
     public PermissionSettings deserializePermissionSettings(String value) {
         if (value == null || value.isEmpty()) {
             return new PermissionSettings();
         }
         try {
-            return mapper.readValue(value, PermissionSettings.class);
+            return objectMapper.readValue(value, PermissionSettings.class);
         } catch (Exception e) {
             return new PermissionSettings();
         }
@@ -27,12 +32,32 @@ public class AuthHelper {
 
     public JsonNode deserializeJObject(String value) {
         if (value == null || value.isEmpty()) {
-            return mapper.createObjectNode();
+            return objectMapper.createObjectNode();
         }
         try {
-            return mapper.readTree(value);
+            return objectMapper.readTree(value);
         } catch (Exception e) {
-            return mapper.createObjectNode();
+            return objectMapper.createObjectNode();
         }
     }
+
+
+    public String valueToJsonNode(Object object) {
+        try {
+            return objectMapper.writeValueAsString(object);
+        } catch (Exception ex) {
+            logAndThrow(ex, JSON_PROCESSING_ERROR);
+            throw new JsonConversionException();
+        }
+    }
+
+    public <T> T convertObject(String object, Class<T> clazz) {
+        try {
+            return objectMapper.readValue(object, clazz);
+        } catch (Exception ex) {
+            logAndThrow(ex, JSON_PROCESSING_ERROR);
+            throw new JsonConversionException();
+        }
+    }
+
 }
