@@ -3,7 +3,7 @@ package ru.copperside.auth.service;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import ru.copperside.auth.crypt.SecretEncoder;
+import ru.copperside.auth.utils.SecretEncoder;
 import ru.copperside.auth.dto.*;
 import ru.copperside.auth.entity.AuthData;
 import ru.copperside.auth.entity.InheritedPermissionDb;

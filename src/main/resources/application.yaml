@@ -10,6 +10,10 @@ app-info:
   artifact-id: ${spring.application.name}
   version: @revision@
 
+header:
+  environment: dev
+  timeout: 120
+
 management:
   endpoints:
     web:

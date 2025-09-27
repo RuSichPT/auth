@@ -1,4 +1,4 @@
-package ru.copperside.auth.crypt;
+package ru.copperside.auth.utils;
 
 import lombok.experimental.UtilityClass;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;

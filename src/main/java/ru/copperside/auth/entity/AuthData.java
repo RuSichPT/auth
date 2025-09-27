@@ -5,15 +5,16 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.FieldNameConstants;
+import ru.copperside.auth.enums.SecretType;
 
 @Data
 @FieldNameConstants
 public class AuthData {
-    private String dataId;
+    private Long authId;
 
     private String type;
 
-    private Long authId;
+    private String dataId;
 
     private SecretData secretData;
 
@@ -24,7 +25,13 @@ public class AuthData {
         @JsonProperty("IsEnable")
         private Boolean isEnable;
 
+        @JsonProperty("KeyUsage")
+        private String keyUsage;
+
         @JsonProperty("Secret")
         private String secret;
+
+        @JsonProperty("SecretType")
+        private SecretType secretType;
     }
 }

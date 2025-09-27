@@ -12,7 +12,7 @@ public class ExceptionHandlerController {
 
     @ExceptionHandler(InvalidSignException.class)
     public final ResponseEntity<ErrorResponse> handleBusinessException(InvalidSignException ex) {
-        return ResponseEntity.status(HttpStatus.FORBIDDEN)
+        return ResponseEntity.status(HttpStatus.UNAUTHORIZED)
                 .body(new ErrorResponse("Error", ex.getMessage()));
     }
 }
