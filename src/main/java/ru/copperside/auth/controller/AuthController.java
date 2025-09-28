@@ -11,9 +11,11 @@ import ru.copperside.auth.dto.AuthDto;
 import ru.copperside.auth.dto.SessionInfo;
 import ru.copperside.auth.helper.AuthHelper;
 import ru.copperside.auth.service.AuthService;
+import ru.copperside.auth.service.MetricService;
 import ru.copperside.auth.utils.SessionInfoCodec;
 
 import java.time.LocalDateTime;
+import java.util.concurrent.TimeUnit;
 
 import static ru.copperside.auth.utils.Headers.*;
 
@@ -24,6 +26,7 @@ import static ru.copperside.auth.utils.Headers.*;
 public class AuthController {
     private final AuthService authService;
     private final AuthHelper authHelper;
+    private final MetricService metricService;
 
     @Value("${header.environment}")
     public String environment;
@@ -37,6 +40,9 @@ public class AuthController {
                                                  @RequestHeader(SIGNATURE) String signature,
                                                  @RequestHeader(URI) String uri,
                                                  @RequestBody String requestBody) {
+        long currentTimeMillis = System.currentTimeMillis();
+        metricService.getTotalRequest().increment();
+
         AuthDto authDto = AuthDto.builder()
                 .login(login)
                 .signature(signature)
@@ -50,6 +56,9 @@ public class AuthController {
         log.info("{}", sessionInfo);
 
         String responseBody = requestBody + SessionInfoCodec.serializeToBase64(authHelper.convertObjectToJson(sessionInfo));
+
+        metricService.getAuthTimer().record(System.currentTimeMillis() - currentTimeMillis, TimeUnit.MILLISECONDS);
+
         return ResponseEntity.ok()
                 .headers(createHeaders(requestBody.length(), responseBody.length()))
                 .body(responseBody);

@@ -29,6 +29,9 @@ management:
   server:
     port: 8080
   metrics:
+    distribution:
+      percentiles-histogram:
+        http.server.requests: true
     tags:
       application: ${spring.application.name}
   endpoint:
