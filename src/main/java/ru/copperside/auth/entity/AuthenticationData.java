@@ -9,7 +9,7 @@ import ru.copperside.auth.enums.SecretType;
 
 @Data
 @FieldNameConstants
-public class AuthData {
+public class AuthenticationData {
     private Long authId;
 
     private String type;

@@ -7,7 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import ru.copperside.auth.dto.*;
-import ru.copperside.auth.entity.AuthData;
+import ru.copperside.auth.entity.AuthenticationData;
 import ru.copperside.auth.entity.InheritedPermissionDb;
 import ru.copperside.auth.entity.InheritedRolePermissionDb;
 import ru.copperside.auth.exception.ForbiddenException;
@@ -49,9 +49,9 @@ public class AuthService {
         String signature = headers.get(SIGNATURE.toLowerCase());
 
         AuthInfo authInfo = cacheService.get(login, AuthInfo.class);
-        AuthData authData = authDataRepository.findAuthData(login);
+        AuthenticationData authenticationData = authDataRepository.findAuthData(login);
         if (authInfo == null) {
-            authInfo = getAuthInfo(authData.getAuthId());
+            authInfo = getAuthInfo(authenticationData.getAuthId());
 
             Objects.requireNonNull(authInfo, "authInfo must not be null");
 
@@ -59,7 +59,7 @@ public class AuthService {
             cacheService.set(login, data, ttl);
         }
 
-        validateSignature(authData, signature, body);
+        validateSignature(authenticationData, signature, body);
 
         validateUri(authInfo, uri);
 
@@ -77,11 +77,11 @@ public class AuthService {
     }
 
 
-    private void validateSignature(AuthData authData, String signatureBase64, String body) {
+    private void validateSignature(AuthenticationData authenticationData, String signatureBase64, String body) {
         try {
             byte[] signature = Base64.getDecoder().decode(signatureBase64);
 
-            String secret = SecretEncoder.decrypt(authData.getDataId(), authData.getSecretData().getSecret());
+            String secret = SecretEncoder.decrypt(authenticationData.getDataId(), authenticationData.getSecretData().getSecret());
 
             Mac mac = Mac.getInstance("HmacSHA1");
             SecretKeySpec secretKeySpec = new SecretKeySpec(secret.getBytes(StandardCharsets.UTF_8), "HmacSHA1");
@@ -91,7 +91,7 @@ public class AuthService {
             if (!MessageDigest.isEqual(hash, signature)) {
                 throw new InvalidUserNameOrSignature();
             }
-            log.info("{}: данные соответствуют подписи", authData.getAuthId());
+            log.info("{}: данные соответствуют подписи", authenticationData.getAuthId());
         } catch (Exception e) {
             log.warn(e.getMessage(), e);
             throw new InvalidUserNameOrSignature();

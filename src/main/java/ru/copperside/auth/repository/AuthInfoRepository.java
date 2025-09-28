@@ -36,7 +36,7 @@ public class AuthInfoRepository {
             """;
 
     private static final String GET_KEY_VALUE_SESSION_DATA = """
-                SELECT hd.KEY, hd.VALUE FROM (SELECT ah.HIERARCHYID, 
+            SELECT hd.KEY, hd.VALUE FROM (SELECT ah.HIERARCHYID, 
             ah.LEVEL FROM AUTHHIERARCHY ah, AUTHHIERARCHY ah2 WHERE ah.LEFTKEY <= 
             ah2.LEFTKEY AND ah.RIGHTKEY >= ah2.RIGHTKEY AND ah2.AUTHID = :authId ) h, 
             HIERARCHYDATA hd where h.HIERARCHYID = hd.HIERARCHYID ORDER BY h.LEVEL
