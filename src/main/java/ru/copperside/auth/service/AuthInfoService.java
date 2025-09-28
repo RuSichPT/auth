@@ -8,7 +8,7 @@ import ru.copperside.auth.dto.KeyValueDataDb;
 import ru.copperside.auth.dto.RoleSettingsDb;
 import ru.copperside.auth.repository.AuthInfoRepository;
 
-import java.util.stream.Stream;
+import java.util.List;
 
 import static ru.copperside.auth.utils.LogMessageConstants.logAndThrow;
 
@@ -26,7 +26,7 @@ public class AuthInfoService {
         return null;
     }
 
-    public Stream<KeyValueDataDb> getPrivateData(long authId) {
+    public List<KeyValueDataDb> getPrivateData(long authId) {
         try {
             return authInfoRepository.getPrivateData(authId);
         } catch (DataAccessException ex) {
@@ -35,7 +35,7 @@ public class AuthInfoService {
         return null;
     }
 
-    public Stream<RoleSettingsDb> getRoleSettingsDb(long authId) {
+    public List<RoleSettingsDb> getRoleSettingsDb(long authId) {
         try {
             return authInfoRepository.getRoleSettings(authId);
         } catch (DataAccessException ex) {
@@ -44,7 +44,7 @@ public class AuthInfoService {
         return null;
     }
 
-    public Stream<KeyValueDataDb> getSessionData(long authId) {
+    public List<KeyValueDataDb> getSessionData(long authId) {
         try {
             return authInfoRepository.getSessionData(authId);
         } catch (DataAccessException ex) {

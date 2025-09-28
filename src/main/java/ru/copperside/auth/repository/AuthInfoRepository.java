@@ -8,8 +8,8 @@ import ru.copperside.auth.dto.AuthInfoDb;
 import ru.copperside.auth.dto.KeyValueDataDb;
 import ru.copperside.auth.dto.RoleSettingsDb;
 
+import java.util.List;
 import java.util.Map;
-import java.util.stream.Stream;
 
 
 @Repository
@@ -49,22 +49,22 @@ public class AuthInfoRepository {
                 new BeanPropertyRowMapper<>(AuthInfoDb.class));
     }
 
-    public Stream<KeyValueDataDb> getPrivateData(long authId) {
-        return template.queryForStream(
+    public List<KeyValueDataDb> getPrivateData(long authId) {
+        return template.query(
                 GET_KEY_VALUE_PRIVATE_DATA,
                 Map.of("authId", authId),
                 new BeanPropertyRowMapper<>(KeyValueDataDb.class));
     }
 
-    public Stream<RoleSettingsDb> getRoleSettings(long authId) {
-        return template.queryForStream(
+    public List<RoleSettingsDb> getRoleSettings(long authId) {
+        return template.query(
                 GET_ROLE_SETTINGS,
                 Map.of("authId", authId),
                 new BeanPropertyRowMapper<>(RoleSettingsDb.class));
     }
 
-    public Stream<KeyValueDataDb> getSessionData(long authId) {
-        return template.queryForStream(
+    public List<KeyValueDataDb> getSessionData(long authId) {
+        return template.query(
                 GET_KEY_VALUE_SESSION_DATA,
                 Map.of("authId", authId),
                 new BeanPropertyRowMapper<>(KeyValueDataDb.class));

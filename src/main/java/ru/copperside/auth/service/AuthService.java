@@ -23,7 +23,6 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.time.LocalTime;
 import java.util.*;
-import java.util.stream.Stream;
 
 import static ru.copperside.auth.utils.Headers.*;
 import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
@@ -115,24 +114,18 @@ public class AuthService {
             result.setPermissions(getHierarchyPermissions(authInfoDb.getHierarchyId()).getCompilePermission());
 
             Map<String, String> privateData = new HashMap<>();
-            try (Stream<KeyValueDataDb> stream = authInfoService.getPrivateData(authId)) {
-                stream.forEach(pair -> privateData.put(pair.getKey(), pair.getValue()));
-            }
+            authInfoService.getPrivateData(authId).forEach(pair -> privateData.put(pair.getKey(), pair.getValue()));
             result.setPrivateData(privateData);
 
             result.setSessionSettings(new SessionSettings());
-            try (Stream<RoleSettingsDb> stream = authInfoService.getRoleSettingsDb(authId)) {
-                stream.forEach(roleSettingsDb -> mergeSettings(result.getSessionSettings(),
-                        roleSettingsDb.getSettings(), true, authId));
-            }
+            authInfoService.getRoleSettingsDb(authId).forEach(roleSettingsDb ->
+                    mergeSettings(result.getSessionSettings(), roleSettingsDb.getSettings(), true, authId));
             mergeSettings(result.getSessionSettings(), authInfoDb.getSettings(), false, authId);
 
             Map<String, String> sessionData = new HashMap<>();
             result.setSessionData(sessionData);
             sessionData.put("DisplayName", authInfoDb.getDisplayName());
-            try (Stream<KeyValueDataDb> stream = authInfoService.getSessionData(authId)) {
-                stream.forEach(pair -> sessionData.put(pair.getKey(), pair.getValue()));
-            }
+            authInfoService.getSessionData(authId).forEach(pair -> sessionData.put(pair.getKey(), pair.getValue()));
         } catch (Exception ex) {
             throwBusinessUnexpected(ex);
         }
