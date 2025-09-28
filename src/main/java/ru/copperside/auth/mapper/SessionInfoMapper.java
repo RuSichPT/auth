@@ -24,8 +24,8 @@ public interface SessionInfoMapper {
     @Mapping(target = "xForwardedFor", source = "authDto.forwardedFor")
     @Mapping(target = "serializerType", constant = "CamelCase")
     @Mapping(target = "userDeviceId", constant = "API")
-    @Mapping(target = "userIp", constant = "mock") //todo доделать
-    @Mapping(target = "remoteIpAddress", constant = "mock") //todo доделать
+    @Mapping(target = "userIp", source = "authDto.remoteAddr")
+    @Mapping(target = "remoteIpAddress", source = "authDto.remoteAddr")
     @Mapping(target = "singleRequestSession", constant = "true")
     @Mapping(target = "confidant", source = "authDto.login")
     @Mapping(target = "operation", source = "authDto.uri")

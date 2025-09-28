@@ -23,8 +23,8 @@
                     </message>
                     <sortByTime>true</sortByTime>
                 </format>
-                <batchMaxItems>10</batchMaxItems>
-                <batchTimeoutMs>1000</batchTimeoutMs>
+                <batchMaxItems>500</batchMaxItems>
+                <batchTimeoutMs>3000</batchTimeoutMs>
             </appender>
 
             <root level="info">
