@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+    <include resource="org/springframework/boot/logging/logback/defaults.xml" />
+    <include resource="org/springframework/boot/logging/logback/console-appender.xml" />
+
+    <springProperty scope="context" name="APP_NAME" source="spring.application.name"/>
+
+    <if condition='isDefined("LOKI")'>
+        <then>
+            <appender name="LOKI" class="com.github.loki4j.logback.Loki4jAppender">
+                <http>
+                    <url>${LOKI}/loki/api/v1/push</url>
+                </http>
+                <format>
+                    <label>
+                        <pattern>app=${APP_NAME},host=${HOSTNAME},level=%level</pattern>
+                    </label>
+                    <message>
+                        <pattern>
+                            ${CONSOLE_LOG_PATTERN}
+                        </pattern>
+                    </message>
+                    <sortByTime>true</sortByTime>
+                </format>
+                <batchMaxItems>10</batchMaxItems>
+                <batchTimeoutMs>1000</batchTimeoutMs>
+            </appender>
+
+            <root level="info">
+                <appender-ref ref="CONSOLE"/>
+                <appender-ref ref="LOKI"/>
+            </root>
+        </then>
+        <else>
+            <root level="info">
+                <appender-ref ref="CONSOLE"/>
+            </root>
+        </else>
+    </if>
+
+</configuration>
