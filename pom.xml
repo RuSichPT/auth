@@ -108,6 +108,10 @@
             <artifactId>bcprov-jdk18on</artifactId>
             <version>${bcprov-jdk18on.version}</version>
         </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-registry-prometheus</artifactId>
+        </dependency>
         <!-- ===================== Testing ====================== -->
         <dependency>
             <groupId>org.jeasy</groupId>
