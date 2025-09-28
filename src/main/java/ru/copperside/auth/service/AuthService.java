@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import ru.copperside.auth.dto.*;
 import ru.copperside.auth.entity.AuthData;
@@ -24,8 +25,8 @@ import java.time.LocalTime;
 import java.util.*;
 import java.util.stream.Stream;
 
-import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
 import static ru.copperside.auth.utils.Headers.*;
+import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
 
 @Service
 @RequiredArgsConstructor
@@ -37,21 +38,30 @@ public class AuthService {
     private final AuthHelper authHelper;
     private final ObjectMapper objectMapper;
     private final SessionInfoMapper sessionInfoMapper;
+    private final CacheService cacheService;
+
+    @Value("${redis.ttl}")
+    public Long ttl;
 
     public SessionInfo auth(Map<String, String> headers, String body) {
         String login = headers.get(LOGIN.toLowerCase());
         String uri = headers.get(URI.toLowerCase());
         String signature = headers.get(SIGNATURE.toLowerCase());
 
+        AuthInfo authInfo = cacheService.get(login, AuthInfo.class);
         AuthData authData = authDataRepository.findAuthData(login);
+        if (authInfo == null) {
+            authInfo = getAuthInfo(authData.getAuthId());
 
-        AuthInfo authInfo = getAuthInfo(authData.getAuthId());
+            Objects.requireNonNull(authInfo, "authInfo must not be null");
 
-        Objects.requireNonNull(authInfo, "authInfo must not be null");
-
-        validateUri(authInfo, uri);
+            String data = authHelper.valueToJsonNode(authInfo);
+            cacheService.set(login, data, ttl);
+        }
 
         validateSignature(authData, signature, body);
+
+        validateUri(authInfo, uri);
 
         return sessionInfoMapper.create(authInfo, headers, login, uri);
     }
@@ -63,7 +73,7 @@ public class AuthService {
                 .filter(p -> p.getPermissionStrId().equals(uri.toLowerCase()))
                 .findFirst()
                 .orElseThrow(ForbiddenException::new);
-        log.info(String.valueOf(permission));
+        log.info(String.format("Запрос для authId %s Permission: %s", authInfo.getAuthId(), permission));
     }
 
 

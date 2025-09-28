@@ -9,17 +9,23 @@ import ru.copperside.auth.exception.ForbiddenException;
 import ru.copperside.auth.exception.InvalidUserNameOrSignature;
 
 @ControllerAdvice
-public class ExceptionHandlerController {
+public class GlobalExceptionHandler {
 
     @ExceptionHandler(InvalidUserNameOrSignature.class)
-    public final ResponseEntity<ErrorResponse> handleInvalidPermissionException(InvalidUserNameOrSignature ex) {
+    public final ResponseEntity<ErrorResponse> handleInvalidUserNameOrSignatureException(InvalidUserNameOrSignature ex) {
         return ResponseEntity.status(HttpStatus.UNAUTHORIZED)
                 .body(new ErrorResponse("Error", ex.getMessage()));
     }
 
     @ExceptionHandler(ForbiddenException.class)
-    public final ResponseEntity<ErrorResponse> handleInvalidPermissionException(ForbiddenException ex) {
+    public final ResponseEntity<ErrorResponse> handleForbiddenException(ForbiddenException ex) {
         return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body(new ErrorResponse("Error", ex.getMessage()));
+    }
+
+    @ExceptionHandler(Exception.class)
+    public final ResponseEntity<ErrorResponse> handleGlobalException(Exception ex) {
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body(new ErrorResponse("Error", "Internal Server Error"));
     }
 }
