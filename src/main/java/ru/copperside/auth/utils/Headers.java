@@ -11,5 +11,5 @@ public class Headers {
     public static final String TIMEOUT = "TCB-Header-Timeout";
     public static final String SESSION = "TCB-Header-Session";
     public static final String TIMESTAMP = "TCB-Header-TimeStamp";
-    public static final String FORWARD_FOR = "X-Forwarded-For";
+    public static final String X_FORWARDED_FOR = "X-Forwarded-For";
 }

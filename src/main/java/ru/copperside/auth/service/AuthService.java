@@ -24,7 +24,6 @@ import java.security.MessageDigest;
 import java.time.LocalTime;
 import java.util.*;
 
-import static ru.copperside.auth.utils.Headers.*;
 import static ru.copperside.auth.utils.LogMessageConstants.throwBusinessUnexpected;
 
 @Service
@@ -42,37 +41,34 @@ public class AuthService {
     @Value("${redis.ttl}")
     public Long ttl;
 
-    public SessionInfo auth(Map<String, String> headers, String body) {
-        String login = headers.get(LOGIN.toLowerCase());
-        String uri = headers.get(URI.toLowerCase());
-        String signature = headers.get(SIGNATURE.toLowerCase());
+    public SessionInfo auth(AuthDto authDto) {
+        AuthenticationData authenticationData = authDataRepository.findAuthData(authDto.getLogin());
 
-        AuthInfo authInfo = cacheService.get(login, AuthInfo.class);
-        AuthenticationData authenticationData = authDataRepository.findAuthData(login);
+        AuthInfo authInfo = cacheService.get(authDto.getLogin(), AuthInfo.class);
         if (authInfo == null) {
             authInfo = getAuthInfo(authenticationData.getAuthId());
 
             Objects.requireNonNull(authInfo, "authInfo must not be null");
 
             String data = authHelper.valueToJsonNode(authInfo);
-            cacheService.set(login, data, ttl);
+            cacheService.set(authDto.getLogin(), data, ttl);
         }
 
-        validateSignature(authenticationData, signature, body);
+        validateSignature(authenticationData, authDto.getSignature(), authDto.getBody());
 
-        validateUri(authInfo, uri);
+        validateUri(authInfo, authDto.getUri());
 
-        return sessionInfoMapper.create(authInfo, headers, login, uri);
+        return sessionInfoMapper.create(authInfo, authDto);
     }
 
 
     private void validateUri(AuthInfo authInfo, String uri) {
         Permission[] permissions = authInfo.getPermissions();
-        Permission permission = Arrays.stream(permissions)
+        Arrays.stream(permissions)
                 .filter(p -> p.getPermissionStrId().equals(uri.toLowerCase()))
                 .findFirst()
                 .orElseThrow(ForbiddenException::new);
-        log.info(String.format("Запрос для authId %s Permission: %s", authInfo.getAuthId(), permission));
+        log.info("{}: uri: {} разрешен", authInfo.getAuthId(), uri);
     }
 
 
