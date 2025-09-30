@@ -1,0 +1,11700 @@
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4011, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4013, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4014, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4016, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4017, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4019, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4020, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4022, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4023, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4025, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4026, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4028, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4029, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4031, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4032, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4034, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4034, 103);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4035, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4037, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4038, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4040, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4041, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4043, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4044, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4046, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4047, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4049, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4050, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4052, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4053, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4054, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4056, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4057, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4059, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4060, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4062, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4063, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4065, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4066, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4068, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4069, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4071, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4072, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4074, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4075, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4077, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4078, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4080, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4081, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4083, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4084, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4086, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4087, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4089, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4090, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4092, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4093, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4095, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4096, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4098, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4099, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4101, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4102, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4104, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4105, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4107, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4108, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4110, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4111, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4113, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4114, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4116, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4117, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4118, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4120, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4121, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4123, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4124, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4127, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4128, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4129, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4130, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4132, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4133, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4136, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4138, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4139, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4141, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4142, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4144, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4145, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4147, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4148, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4149, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4150, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4151, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4152, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4153, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4154, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4155, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4156, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4156, 103);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4157, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4158, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4159, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4160, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4162, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4163, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4165, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4166, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4168, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4169, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4171, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4172, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4174, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4175, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4177, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4178, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4180, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4181, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4183, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4184, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4186, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4187, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4189, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4190, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4192, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4193, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4195, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4196, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4198, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4199, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4201, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4202, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4204, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4205, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4207, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4208, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4210, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4211, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4213, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4214, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4216, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4217, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4219, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4220, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4222, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4223, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4225, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4226, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4228, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4229, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4231, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4232, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4234, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4235, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4237, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4238, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4240, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4241, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4243, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4244, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4246, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4247, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4249, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4250, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4252, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4253, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4255, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4256, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4258, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4259, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4261, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4262, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4264, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4265, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4267, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4268, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4270, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4271, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4273, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4274, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4276, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4277, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4279, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4280, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4282, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4283, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4285, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4286, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4288, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4289, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4291, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4292, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4294, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4295, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4298, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4299, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4300, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4303, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4304, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4306, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4307, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4309, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4310, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4312, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4313, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4315, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4316, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4318, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4319, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4321, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4322, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4324, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4324, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4325, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4327, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4328, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4330, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4331, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4332, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4334, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4335, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4337, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4338, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4340, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4341, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4343, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4344, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4346, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4347, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4349, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4350, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4352, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4353, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4355, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4356, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4358, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4359, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4361, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4362, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4364, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4365, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4367, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4368, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4370, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4371, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4373, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4374, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4376, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4377, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4379, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4380, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4382, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4383, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4385, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4386, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4388, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4389, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4391, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4392, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4394, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4395, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4397, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4398, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4400, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4401, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4403, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4404, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4406, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4407, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4409, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4410, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4412, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4413, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4415, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4416, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4418, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4419, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4420, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4421, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4423, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4424, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4426, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4427, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4429, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4430, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4432, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4433, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4435, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4436, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4438, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4439, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4441, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4442, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4444, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4445, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4447, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4448, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4450, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4451, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4453, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4453, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4454, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4456, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4457, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4459, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4460, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4462, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4463, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4464, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4466, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4467, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4469, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4470, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4472, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4473, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4475, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4476, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4478, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4479, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4481, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4482, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4484, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4485, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4487, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4488, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4490, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4491, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4493, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4494, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4496, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4497, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4499, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4500, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4502, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4503, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4505, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4506, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4508, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4509, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4511, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4512, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4514, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4515, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4517, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4518, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4520, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4521, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4523, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4524, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4526, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4527, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4528, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4530, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4531, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4532, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4532, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4534, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4535, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4536, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4538, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4539, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4541, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4542, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4544, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4545, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4547, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4548, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4550, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4551, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4552, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4553, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4553, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4555, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4556, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4558, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4559, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4561, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4562, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4564, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4564, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4565, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4567, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4568, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4569, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4571, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4572, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4574, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4575, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4577, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4578, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4580, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4581, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4583, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4583, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4584, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4585, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4587, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4588, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4590, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4591, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4593, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4594, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4596, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4597, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4599, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4600, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4602, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4603, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4605, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4606, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4608, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4608, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4609, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4611, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4612, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4614, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4615, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4617, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4618, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4620, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4621, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4623, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4624, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4626, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4626, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4627, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4629, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4630, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4632, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4633, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4635, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4636, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4638, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4639, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4641, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4642, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4644, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4645, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4647, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4648, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4650, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4651, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4653, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4654, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4656, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4657, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5659, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5660, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5662, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5663, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5664, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5666, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5667, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5669, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5669, 5);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5670, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5672, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5672, 5);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5673, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5672, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5672, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5672, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5669, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5669, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5675, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5676, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5678, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5679, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5681, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5682, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5684, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5685, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5687, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5688, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5689, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5691, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5692, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5694, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5695, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5697, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5698, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5700, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5701, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5702, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5704, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5705, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5707, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5708, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5710, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5711, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5713, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5714, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4429, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5716, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5717, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5719, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5720, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (5721, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (6, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (109, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (117, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (119, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (120, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (121, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (122, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (123, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (125, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (126, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (128, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (142, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (143, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (144, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (145, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (146, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (148, 2);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (149, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (152, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (156, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (157, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (168, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (171, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (172, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (173, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (174, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (175, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (176, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (177, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (178, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (179, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (211, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (211, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (250, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (309, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (311, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (343, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (413, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (419, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (420, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (429, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (430, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (431, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (432, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (451, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (451, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (459, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (460, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (461, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (462, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (463, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (464, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (465, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (466, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (467, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (468, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (470, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (478, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (479, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (482, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (483, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (484, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (485, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (486, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (487, 2);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (491, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (493, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (495, 2);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (496, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (497, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (498, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (499, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (500, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (501, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (502, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (503, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (504, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (505, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (508, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (509, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (510, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (511, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (512, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (513, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (514, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (515, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (516, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (518, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (522, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (524, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (526, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (526, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (526, 92);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (526, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (528, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (530, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (534, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (609, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (611, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (613, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (615, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (617, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (617, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (618, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (620, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (622, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (624, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (626, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (628, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (630, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (632, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (632, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (634, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (636, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (637, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (639, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (642, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (644, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (646, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (648, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (650, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (652, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (652, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (654, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (656, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (658, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (658, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (658, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (661, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (661, 80);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (662, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (664, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (666, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (668, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (670, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (672, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (674, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (676, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (678, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (679, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (681, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (685, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (687, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (687, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (690, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (692, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (694, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (694, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (696, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (696, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (699, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (699, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (701, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (701, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (705, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (705, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (708, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (708, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (710, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (710, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (712, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (712, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (714, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (714, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (718, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (718, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (720, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (720, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (722, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (722, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (727, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (727, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (729, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (729, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (732, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (732, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (734, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (734, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (736, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (739, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (739, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (740, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (740, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (744, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (744, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (746, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (746, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (747, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (747, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (749, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (749, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (751, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (751, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (753, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (753, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (755, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (755, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (757, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (760, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (760, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (761, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (761, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (763, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (763, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (765, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (765, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (767, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (767, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (769, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (769, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (771, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (771, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (772, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (772, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (774, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (774, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (776, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (776, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (778, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (778, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (780, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (780, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (784, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (784, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (786, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (786, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (788, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (788, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (790, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (790, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (792, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (792, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (795, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (795, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (797, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (797, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (799, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (799, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (801, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (801, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (803, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (803, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (805, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (805, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (810, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (810, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (812, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (812, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (814, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (814, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (816, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (816, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (818, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (818, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (820, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (820, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (823, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (823, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (825, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (825, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (827, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (827, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (829, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (831, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (831, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (832, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (832, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (835, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (835, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (837, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (837, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (842, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (842, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (844, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (844, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (846, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (846, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (848, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (848, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (850, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (852, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (854, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (854, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (856, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (856, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (858, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (858, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (860, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (862, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (864, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (865, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (866, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (867, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (869, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (869, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (873, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (873, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (875, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (875, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (877, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (879, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (879, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (881, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (881, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (883, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (883, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (885, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (885, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (887, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (887, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (889, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (889, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (891, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (891, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (893, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (893, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (895, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (895, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (897, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (899, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (899, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (901, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (901, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (906, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (906, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (907, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (907, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (908, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (908, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (909, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (909, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (911, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (911, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (913, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (913, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (915, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (915, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (917, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (917, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (919, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (919, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (921, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (921, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (923, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (923, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (926, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (926, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (928, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (928, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (930, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (930, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (932, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (932, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (934, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (934, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (936, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (936, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (938, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (940, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (942, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (944, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (946, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (948, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (950, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (950, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (952, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (952, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (954, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (954, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (956, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (956, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (958, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (958, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (960, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (960, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (964, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (964, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (966, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (966, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (968, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (968, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (970, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (970, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (974, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (974, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (975, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (975, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (978, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (978, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (979, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (979, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (981, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (981, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (983, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (983, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (985, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (985, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (987, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (987, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (990, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (990, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (992, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (992, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (994, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (994, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (996, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (996, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (998, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (998, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1000, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1000, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1002, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1002, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1004, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1004, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1006, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1008, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1008, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1010, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1010, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1012, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1012, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1014, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1014, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1016, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1016, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1018, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1018, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1020, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1020, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1022, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1022, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1024, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1024, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1026, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1026, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1029, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1029, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1040, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1040, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1041, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1041, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1044, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1044, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1046, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1046, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1048, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1048, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1051, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1051, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1053, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1053, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1055, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1055, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1057, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1057, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1059, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1059, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1061, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1061, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1063, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1063, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1064, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1064, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1067, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1067, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1068, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1068, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1070, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1070, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1072, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1072, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1074, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1074, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1076, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1076, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1078, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1078, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1080, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1082, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1084, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1086, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1088, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1090, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1092, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1092, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1094, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1094, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1096, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1096, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1098, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1098, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1101, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1101, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1104, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1104, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1106, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1106, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1108, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1108, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1110, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1110, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1112, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1114, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1116, 10);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1116, 28);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1118, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1120, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1121, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1123, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1125, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1126, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1126, 90);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1127, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1129, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1131, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1132, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1134, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1136, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1136, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1136, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1138, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1138, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1140, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1142, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1149, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1175, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1175, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1177, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1178, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1180, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1181, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1183, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1184, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1187, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1188, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1190, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1191, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1193, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1194, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1196, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1197, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1199, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1200, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1202, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1203, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1205, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1206, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1208, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1209, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1211, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1212, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1214, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1215, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1217, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1218, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1220, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1221, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1223, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1224, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1226, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1227, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1229, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1231, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1232, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1234, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1235, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1237, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1238, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1240, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1241, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1243, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1244, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1246, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1247, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1249, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1250, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1252, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1253, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1255, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1256, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1258, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1259, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1261, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1262, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1264, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1265, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1267, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1268, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1270, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1271, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1273, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1274, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1276, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1277, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1279, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1280, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1282, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1283, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1285, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1286, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1288, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1289, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1291, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1292, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1294, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1295, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1297, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1298, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1300, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1301, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1306, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1307, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1309, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1311, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1312, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1314, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1315, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1317, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1318, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1320, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1321, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1323, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1324, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1326, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1327, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1329, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1330, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1332, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1333, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1335, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1336, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1338, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1339, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1341, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1342, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1344, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1345, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1347, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1348, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1350, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1351, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1372, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1373, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1376, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1376, 77);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1377, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1379, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1379, 77);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1380, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1388, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1388, 77);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1389, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1391, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1392, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1394, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1395, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1397, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1398, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1400, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1401, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1403, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1404, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1406, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1407, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1409, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1410, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1412, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1413, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1415, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1416, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1418, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1419, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1421, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1422, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1424, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1425, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1427, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1428, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1430, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1431, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1433, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1434, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1436, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1437, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1439, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1440, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1442, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1443, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1445, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1446, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1448, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1449, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1451, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1451, 103);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1452, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1454, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1455, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1457, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1458, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1460, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1461, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1463, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1464, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1464, 90);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1466, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1467, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1468, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1469, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1470, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1470, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1472, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1473, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1475, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1476, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1478, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1479, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1481, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1482, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1484, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1485, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1487, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1488, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1489, 85);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1490, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1491, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1493, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1494, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1496, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1497, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1499, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1500, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1502, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1503, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1505, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1506, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1508, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1526, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1527, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1529, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1530, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1532, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1533, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1535, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1536, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1538, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1539, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1541, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1542, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1544, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1545, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1547, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1548, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1550, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1551, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1552, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1554, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1555, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1557, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1558, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1559, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1561, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1562, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1564, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1565, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1567, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1568, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1570, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1571, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1573, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1574, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1576, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1577, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1579, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1580, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1582, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1583, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1585, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1586, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1588, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1589, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1591, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1592, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1594, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1595, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1597, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1598, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1600, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1601, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1603, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1604, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1606, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1607, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1609, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1610, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1612, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1613, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1615, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1616, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1618, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1619, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1621, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1622, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1624, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1625, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1627, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1627, 80);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1628, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1630, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1631, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1633, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1634, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1636, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1637, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1639, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1640, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1641, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1641, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1642, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1642, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1644, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1645, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1647, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1648, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1650, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1651, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1653, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1654, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1656, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1657, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1659, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1660, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1662, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1663, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1665, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1666, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1668, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1669, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1671, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1672, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1674, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1675, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1677, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1678, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1680, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1681, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1683, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1684, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1686, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1687, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1689, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1690, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1692, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1693, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1695, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1696, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1698, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1699, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1701, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1702, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1704, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1705, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1707, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1708, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1710, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1711, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1713, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1714, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1716, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1717, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1719, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1720, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1722, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1723, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1725, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1726, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1728, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1729, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1731, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1732, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1734, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1735, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1737, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1738, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1740, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1741, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1743, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1744, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1746, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1747, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1749, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1750, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1752, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1753, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1755, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1756, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1758, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1759, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1761, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1762, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1764, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1765, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1767, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1768, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1770, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1771, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1773, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1774, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1776, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1777, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1779, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1780, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1782, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1783, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1785, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1786, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1788, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1789, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1791, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1792, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1794, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1795, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1797, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1798, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1800, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1801, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1803, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1804, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1806, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1807, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1809, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1810, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1812, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1813, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1815, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1816, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1829, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1830, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1832, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1834, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1835, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1837, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1838, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1840, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1841, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1845, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1846, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1848, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1849, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1851, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1852, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1854, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1855, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1857, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1858, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1860, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1861, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1865, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1866, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1870, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1871, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1873, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1874, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1876, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1877, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1879, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1880, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1882, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1883, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1885, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1886, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1888, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1889, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1891, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1892, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1894, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1895, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1897, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1898, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1900, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1901, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1903, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1904, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1906, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1907, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1909, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1910, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1912, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1913, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1915, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1916, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1918, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1919, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1921, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1922, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1924, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1925, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1927, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1928, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1930, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1931, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1933, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1934, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1936, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1937, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1939, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1940, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1942, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1943, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1945, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1946, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1948, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1949, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1951, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1952, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1954, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1955, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1957, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1958, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1960, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1961, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1963, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1964, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1966, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1967, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1969, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1970, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1972, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1973, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1975, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1976, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1978, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1979, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1981, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1982, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1984, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1985, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1987, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1988, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1990, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1991, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1993, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1993, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1994, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1996, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1997, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (1999, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2000, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2002, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2003, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2004, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2005, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2005, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2005, 74);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2005, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2007, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2008, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2010, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2011, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2013, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2014, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2016, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2017, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2019, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2020, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2022, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2023, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2024, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2024, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2026, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2027, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2029, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2030, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2032, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2033, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2035, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2036, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2038, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2039, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2041, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2042, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2044, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2044, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2045, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2047, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2048, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2049, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2049, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2051, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2052, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2053, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2055, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2056, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2057, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2059, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2060, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2062, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2063, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2065, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2066, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2068, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2069, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2071, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2072, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2074, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2075, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2076, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2076, 62);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2076, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2076, 74);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2076, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2078, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2079, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2081, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2082, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2084, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2085, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2087, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2088, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2090, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2091, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2093, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2094, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2096, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2097, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2099, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2100, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2102, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2103, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2105, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2106, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2108, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2109, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2111, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2112, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2114, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2115, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2117, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2118, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2120, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2121, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2123, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2124, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2126, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2127, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2129, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2130, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2132, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2133, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2135, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2136, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2138, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2139, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2141, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2142, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2144, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2145, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2147, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2148, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2150, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2151, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2153, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2154, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2156, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2157, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2159, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2160, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2162, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2163, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2165, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2166, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2168, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2169, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2171, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2172, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2174, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2175, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2177, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2178, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2180, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2181, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2183, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2184, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2186, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2187, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2190, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2192, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2193, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2195, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2196, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2198, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2199, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2201, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2202, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2204, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2205, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2207, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2208, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2210, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2211, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2213, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2214, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2216, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2217, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2219, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2220, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2222, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2223, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2225, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2226, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2228, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2229, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2231, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2232, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2234, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2235, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2237, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2238, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2240, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2241, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2243, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2244, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2246, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2247, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2249, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2250, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2252, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2253, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2255, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2256, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2258, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2259, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2261, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2262, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2264, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2265, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2267, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2268, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2270, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2271, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2272, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2274, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2275, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2277, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2278, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2280, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2281, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2283, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2284, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2286, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2287, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2288, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2290, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2291, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2293, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2294, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2299, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2300, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2302, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2303, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2305, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2306, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2308, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2309, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2311, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2312, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2314, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2315, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2318, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2319, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2321, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2322, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2324, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2325, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2327, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2328, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2330, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2331, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2333, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2334, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2336, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2337, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2339, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2340, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2342, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2343, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2345, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2346, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2348, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2349, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2351, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2352, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2354, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2355, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2357, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2358, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2360, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2361, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2363, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2364, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2366, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2367, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2369, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2370, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2372, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2373, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2375, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2376, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2378, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2379, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2381, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2382, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2384, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2385, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2387, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2388, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2390, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2391, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2393, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2394, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2396, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2397, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2399, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2400, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2402, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2403, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2405, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2406, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2408, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2409, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2411, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2412, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2414, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2415, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2417, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2418, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2420, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2421, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2423, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2424, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2426, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2427, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2429, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2430, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2432, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2433, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2435, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2436, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2438, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2439, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2441, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2442, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2444, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2445, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2447, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2448, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2450, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2451, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2453, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2454, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2456, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2457, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2459, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2460, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2462, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2463, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2465, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2466, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2468, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2469, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2471, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2472, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2474, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2475, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2477, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2478, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2480, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2481, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2483, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2484, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2486, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2487, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2489, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2490, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2492, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2493, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2495, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2496, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2498, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2499, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2501, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2502, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2504, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2505, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2507, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2508, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2510, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2511, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2513, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2514, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2516, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2517, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2519, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2520, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2522, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2523, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2525, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2526, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2528, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2529, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2531, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2532, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2534, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2535, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2537, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2538, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2540, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2541, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2543, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2544, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2546, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2547, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2549, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2550, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2552, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2553, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2555, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2556, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2558, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2559, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2561, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2562, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2564, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2565, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2567, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2568, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2570, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2571, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2573, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2574, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2576, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2577, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2579, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2580, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2582, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2583, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2585, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2586, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2588, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2589, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2591, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2592, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2594, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2595, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2597, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2598, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2600, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2601, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2603, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2604, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2606, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2607, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2609, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2610, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2612, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2613, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2615, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2616, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2618, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2619, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2621, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2622, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2624, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2625, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2627, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2628, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2630, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2631, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2633, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2634, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2636, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2637, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2639, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2640, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2642, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2643, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2645, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2646, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2648, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2649, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2651, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2652, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2654, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2654, 92);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2655, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2657, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2658, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2660, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2661, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2663, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2664, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2666, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2667, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2669, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2670, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2671, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2673, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2674, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2676, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2677, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2679, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2680, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2682, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2683, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2685, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2686, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2688, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2688, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2688, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2688, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2688, 85);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2689, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2691, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2692, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2694, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2694, 80);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2695, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2697, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2698, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2700, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2701, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2703, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2704, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2706, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2707, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2709, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2710, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2712, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2713, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2715, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2716, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2718, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2719, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2721, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2722, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2724, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2725, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2727, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2728, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2730, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2731, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2733, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2734, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2736, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2737, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2739, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2740, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2742, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2743, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2745, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2746, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2748, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2749, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2751, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2752, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2754, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2755, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2757, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2758, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2760, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2761, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2763, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2764, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2766, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2767, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2769, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2770, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2772, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2773, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2775, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2776, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2778, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2779, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2781, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2782, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2784, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2785, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2787, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2788, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2790, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2791, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2793, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2794, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2796, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2797, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2799, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2800, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2802, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2803, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2805, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2806, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2808, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2809, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2811, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2812, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2814, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2815, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2817, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2818, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2820, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2821, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2823, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2824, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2826, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2827, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2829, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2830, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2832, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2833, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2835, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2836, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2838, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2839, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2841, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2842, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2844, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2845, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2847, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2848, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2850, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2851, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2853, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2854, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2856, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2857, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2859, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2860, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2861, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2863, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2864, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2866, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2867, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2870, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2871, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2873, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2874, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2876, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2877, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2879, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2880, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2882, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2883, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2885, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2886, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2888, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2888, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2888, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2888, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2888, 77);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2889, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2891, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2892, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2894, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2895, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2897, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2898, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2900, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2901, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2903, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2904, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2906, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2907, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2909, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2910, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2912, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2913, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2915, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2916, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2918, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2919, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2921, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2922, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2924, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2925, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2927, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2928, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2930, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2931, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2932, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2934, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2935, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2937, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2937, 99);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2938, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2940, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2941, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2943, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2944, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2946, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2947, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2948, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2950, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2951, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2952, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2953, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2955, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2956, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2958, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2959, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2961, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2962, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2964, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2965, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 69);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 75);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 77);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2967, 85);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2968, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2970, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2971, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2973, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2974, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2976, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2977, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2979, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2980, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2982, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2983, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2985, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2986, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2988, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2989, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2991, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2992, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2994, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2995, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2997, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (2998, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3000, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3001, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3003, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3004, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3006, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3007, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3009, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3010, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3012, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3013, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3015, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3016, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3018, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3019, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3021, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3022, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3024, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3025, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3027, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3028, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3030, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3031, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3032, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3034, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3035, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3037, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3038, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3040, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3041, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3043, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3044, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3046, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3047, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3049, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3050, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3051, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3052, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3053, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3055, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3056, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3058, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3059, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3061, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3062, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3063, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3065, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3066, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3067, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3069, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3070, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3072, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3073, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3075, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3076, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3078, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3079, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3081, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3082, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3084, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3085, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3087, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3088, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3090, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3091, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3093, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3094, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3096, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3097, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3099, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3100, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3102, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3103, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3105, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3106, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3108, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3109, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3111, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3112, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3114, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3115, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3117, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3118, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3120, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3121, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3123, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3124, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3126, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3127, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3129, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3130, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3132, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3133, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3135, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3136, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3138, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3139, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3141, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3142, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3144, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3145, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3147, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3148, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3150, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3151, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3153, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3154, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3156, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3157, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3158, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3159, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3160, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3162, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3163, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3165, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3166, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3168, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3169, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3171, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3172, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3174, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3175, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3177, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3178, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3180, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3181, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3183, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3184, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3186, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3187, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3189, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3190, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3192, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3193, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3195, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3196, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3198, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3199, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3201, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3202, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3204, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3205, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3207, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3208, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3210, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3211, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3213, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3214, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3216, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3217, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3219, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3220, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3222, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3223, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3225, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3226, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3228, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3229, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3231, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3232, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3234, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3235, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3237, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3238, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3240, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3241, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3243, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3244, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3246, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3247, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3249, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3250, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3252, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3253, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3255, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3256, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3258, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3259, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3261, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3262, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3264, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3265, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3267, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3268, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3270, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3271, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3273, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3274, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3276, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3277, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3279, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3280, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3282, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3283, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3285, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3286, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3288, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3289, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3291, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3292, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3294, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3295, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3297, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3298, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3300, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3301, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3303, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3304, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3306, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3307, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3309, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3310, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3312, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3313, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3315, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3316, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3318, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3319, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3321, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3322, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3323, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3325, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3326, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3328, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3329, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3331, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3332, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3334, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3335, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3337, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3338, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3340, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3341, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3343, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3344, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3346, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3347, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3349, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3350, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3352, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3353, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3355, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3356, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3358, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3359, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3361, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3362, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3364, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3365, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3367, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3368, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3370, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3371, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3373, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3374, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3376, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3377, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3379, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3380, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3382, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3383, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3385, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3386, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3388, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3389, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3391, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3392, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3394, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3395, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3397, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3398, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3400, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3401, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3403, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3404, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3406, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3407, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3409, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3410, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3412, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3413, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3415, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3416, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3418, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3419, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3421, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3422, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3424, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3425, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3427, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3428, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3430, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3431, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3433, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3434, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3436, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3437, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3439, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3440, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3442, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3443, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3445, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3446, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3448, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3449, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3451, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3452, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3454, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3455, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3457, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3458, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3460, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3461, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3463, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3464, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3466, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3467, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3469, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3470, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3472, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3473, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3475, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3476, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3478, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3479, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3481, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3482, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3484, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3485, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3487, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3488, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3490, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3491, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3493, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3494, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3496, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3497, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3499, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3500, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3502, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3503, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3505, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3506, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3508, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3509, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3511, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3512, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3514, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3515, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3517, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3518, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3519, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3521, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3522, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3524, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3525, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3527, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3528, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3530, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3531, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3533, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3534, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3536, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3537, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3539, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3540, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3542, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3543, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3545, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3546, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3548, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3549, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3551, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3552, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3554, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3555, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3557, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3558, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3560, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3561, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3563, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3564, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3566, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3567, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3569, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3570, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3572, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3573, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3575, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3576, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3578, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3579, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3581, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3582, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3584, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3585, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3587, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3588, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3590, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3591, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3593, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3594, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3596, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3597, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3599, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3600, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3602, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3603, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3605, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3606, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3608, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3609, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3610, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3612, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3613, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3615, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3616, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3618, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3619, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3621, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3622, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3624, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3625, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3627, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3628, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3630, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3631, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3633, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3634, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3636, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3637, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3639, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3640, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3642, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3643, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3645, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3646, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3648, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3649, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3651, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3652, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3654, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3655, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3657, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3658, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3660, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3661, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3663, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3664, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3666, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3667, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3669, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3670, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3672, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3673, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3675, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3676, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3678, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3679, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3681, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3682, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3684, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3685, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3687, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3688, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3690, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3691, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3693, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3694, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3696, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3697, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3699, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3700, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3701, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3702, 71);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3703, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3704, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3706, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3707, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3708, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3710, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3711, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3713, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3714, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3716, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3717, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3719, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3720, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3722, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3723, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3725, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3726, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3728, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3729, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3731, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3732, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3734, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3735, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3737, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3738, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3740, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3741, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3743, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3744, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3746, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3747, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3749, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3750, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3752, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3753, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3755, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3756, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3758, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3759, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3761, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3762, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3764, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3765, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3767, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3768, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3770, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3771, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3773, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3774, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3777, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3778, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3780, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3781, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3783, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3784, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3786, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3787, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3789, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3790, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3792, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3793, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3795, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3796, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3798, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3799, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3800, 1);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3802, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3803, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3805, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3806, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3808, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3809, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3811, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3812, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3814, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3815, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3816, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3819, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3820, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3822, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3823, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3825, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3826, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3828, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3829, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3831, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3832, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3834, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3835, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3837, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3838, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3840, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3841, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3843, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3844, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3846, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3847, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3849, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3850, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3852, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3853, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3855, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3856, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3858, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3859, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3861, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3862, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3864, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3865, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3867, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3868, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3870, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3871, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3873, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3874, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3876, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3877, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3879, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3880, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3882, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3883, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3885, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3886, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3888, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3889, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3891, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3892, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3894, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3895, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3897, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3898, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3900, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3901, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3903, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3904, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3906, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3907, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3909, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3910, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3912, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3913, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3915, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3916, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3918, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3919, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3920, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3921, 76);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3923, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3924, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3926, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3927, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3929, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3930, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3932, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3933, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3935, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3936, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3938, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3939, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3941, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3942, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3944, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3945, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3947, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3948, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3950, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3951, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3953, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3954, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3956, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3957, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3959, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3960, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3962, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3963, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3965, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3966, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3968, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3969, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3971, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3972, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3974, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3975, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3977, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3978, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3980, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3981, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3983, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3984, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3986, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3987, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3989, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3990, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3992, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3993, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3995, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3996, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3998, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (3999, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4001, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4002, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4004, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4005, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4007, 67);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4008, 68);
+Insert into HIERARCHYROLE
+   (HIERARCHYID, ROLEID)
+ Values
+   (4010, 67);

@@ -1,0 +1,3000 @@
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400281', 'HOTP', 'fCJNmMM6W7jalKqlG1dphmeVRFo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400282', 'HOTP', 'd91KILhgMGltGfj2ODUUk1z2Rpw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400283', 'HOTP', 'BbuVEAWxqyMhjGlUlT/J4zE8Ovc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400284', 'HOTP', 'Tj/bC36n0cPDbXpdRDlutAyRbZ0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400285', 'HOTP', 'YWFeCVmkhRS4Det3uJOVJHYZ32w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400286', 'HOTP', 'l15B+fPHom01ZMPGuuEs6ZTFqgA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400287', 'HOTP', 'vG5vRoOcl12GWEjjIBVQVveA0hI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400288', 'HOTP', '+Ff4P6edmA/kkm+osucPrFMOkQA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400289', 'HOTP', 'n42QeAI0G/S97zTBCBJCLZgLRQ0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400290', 'HOTP', 'qCt3tFb+qgJWR7KHp/1TgtVa4Ss=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400291', 'HOTP', '7w/PCeghQVM0nyrOqS0OoOuHyLo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400292', 'HOTP', 'HbbUj/IRtVsBT7vG8sKNbnPZFjM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400293', 'HOTP', 'K0Po2HypH8r27FBDkB0bnrcY0Rs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400294', 'HOTP', 'XZK6ZA3vRfnp4EDNBXCiZaF2aTQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400295', 'HOTP', '4LcMB2PZdAtawvEdLkvb+qT5sq4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400296', 'HOTP', '2WJOPVPIB+4UbP2inEWkWdMhhyc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400297', 'HOTP', 'aHZEds1lqdXOXwWkFl68QYvbm6s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400298', 'HOTP', 'nXa/sR+uQWBTEx9PJ81nonuDSYI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400299', 'HOTP', '5Al/XV83BPzGwlew7Vm1H4rGuPs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400300', 'HOTP', '0Yr3Iq9MDD1LuCXt/OzI/kuqC+c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400301', 'HOTP', 'JSAmXC6W1fXyaly5vK47Uq0Jk3k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400302', 'HOTP', 'DAHCCdfljChrD7Wfv0K0IjEz+iE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400303', 'HOTP', 'UFnYs3OJy5vmfhtO7pTwvrkGcF0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400304', 'HOTP', 'z1WiRdokxGevw1K66TyAM+jhrtg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400305', 'HOTP', 'DChN/tTP2x1GANZ6fN5oEjG8rJM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400306', 'HOTP', 'e/atR1cKJcSCol6X014Gos6L+aQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400307', 'HOTP', 'u5Sf7e1qMaRLcyblnlPnOHfNFfI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400308', 'HOTP', 'ZVbFeLcPHJwjYoK9YzIx7Ul5uDU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400309', 'HOTP', 'rG3IUobBhUP34GBWli4SP2WvbAU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400310', 'HOTP', '5wOcVd0HpaAoKJItFkasAfTxW9c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400311', 'HOTP', 'cgBB2Y2WBbac6kiQSCcT/0C3jQQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400312', 'HOTP', 'XKteFKleD9cxLwBep3si21modU0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400313', 'HOTP', 'Mc1IYyHunp3k6ruAFtApWFHGrAk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400314', 'HOTP', 'p8bsdK08x52zn77kjHNj0UQhW+E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400315', 'HOTP', 'rNoQmP5s8E/9pQyhkui/9xOosyg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400316', 'HOTP', '+UpABGWOf32QblGSttc44p67i/Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400317', 'HOTP', 'a20Rw2H2Ocx9B6BWgM3y45aUDkg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400318', 'HOTP', 'eIHZxVXmWELsWyK8I4voDUp8svw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400319', 'HOTP', 'TFtoLDxZ6zaHxuWaF17khDkEws4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400320', 'HOTP', 'VwmvsPJ0HdQSSg8DxgrPJ0Cox3c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400321', 'HOTP', 't8kUB0MMPMtwz9glOWUgD0/GQpA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400322', 'HOTP', 'dE0Hc+pG/ZRteiEohUEIIR7P4Z0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400323', 'HOTP', 'OQxnahpOP+5mBb0it9uuncIqsQ8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400324', 'HOTP', 'HZOMSaXAFUGUnPQgYsbdZioSBO8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400325', 'HOTP', '/B5KWqrGPAu85KAw3uSvZ3FfJP4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400326', 'HOTP', 'KFcQ8xYaDI3St6pCeCJV98PLdNQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400327', 'HOTP', 'DaPLMuNG/Ypct/awZhlFxSk6JzA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400328', 'HOTP', 'PMdauMFDWLgxxqTHXelFHVjr0Ds=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400329', 'HOTP', 'ygzNHL6hXj5tR/fuWLx8Pc20o5k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400330', 'HOTP', '5y5ywbI2h25G572NQ2u82QymwvQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400331', 'HOTP', '2q/9ksWteyiSaGVvehYTQFKBRKU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400332', 'HOTP', 'e9s6jHmvoM7cKpuxijp/VStuFGM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400333', 'HOTP', 'XiHvlVzJNvZLFDwpq+UzACSgIWk=', '{"Digits":6}', 
+    '{"IterationNumber":166}', 70000120);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400334', 'HOTP', 't8jKnPSrmusd/kgYTVuZuUkgN9A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400335', 'HOTP', 'j42qh8bogwhK1bLQ7jn2QwAcTNQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400336', 'HOTP', 'dILiBX1BP9Ix0Ygiaa3/cNO+Lm4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400337', 'HOTP', 'P0CrmV0IyEMzOLixhAT9APVsxdY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400338', 'HOTP', 'G4OPrsmerb1N7ljGzyhvS1KyGFU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400339', 'HOTP', 'rlQ1xM65XrPEFjSVl87j1aS23qI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400340', 'HOTP', 'j4EnLb/K/Txmsh4c4MgAXeIH/VM=', '{"Digits":6}', 
+    '{"IterationNumber":60}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400341', 'HOTP', 'DOxLrFBot1/5G7fPOxHkp2g+ugw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400342', 'HOTP', 'H028PWzXElSNHDHxEijb9pXkZ3o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400343', 'HOTP', 'RqB8TGBJjVtoaHP1qBPLYM5uv4c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400344', 'HOTP', 'hesp2DVyckgBmrIr+PxDiF6adX8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400345', 'HOTP', 'so21GoQK285Gj3DEYXBWYqXhwxo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400346', 'HOTP', '30VZn96XRVwpOq4Owdqd3rFJupw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400347', 'HOTP', 'qgxFNVLqjQvvRSDFHxQFSkJPuyc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400348', 'HOTP', 'aaXYGgcFkGOowUdKuBu2N5DBffQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400349', 'HOTP', 'CbpkAv403iQni9JNDhpi/MN+Kkk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400350', 'HOTP', '4hqmZNEoUOt/tw+DXp2C2/t1wCw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400001', 'HOTP', 'yePDLXK4R5sbonAFm6epCqBPZLA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400002', 'HOTP', 'b1g9nHubmxoemiSj06yLDn4YWSc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400003', 'HOTP', 'pzZnFyMnDzT5Lh4jWbrD8CG4XpM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400004', 'HOTP', 'SgLIrCxGjiO1fdrMg2PfhlW3XvU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400005', 'HOTP', 'hgIwZIQ4FQbVBmVP+yTLuiZlnSU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400006', 'HOTP', 'FiF+VlVQFDE9M/60z1QzsTD5h3Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400007', 'HOTP', 'o5Ocny0fyll18AXO5RVLanMuh9o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400008', 'HOTP', '5zMLmvGXWNFtwXqeBiT2kKkhY40=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400009', 'HOTP', 'VcfIMuX9l/KhlQJ7biZLftHI9h8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400010', 'HOTP', 'SFOZICxB462XXsT7SzhcErG0M5U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400011', 'HOTP', '0L8SkutOAusxWcpLNPdcSIVOhNI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400012', 'HOTP', '8XoXI73I6aK4BLnofwVK/oNgPMU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400013', 'HOTP', 'Ujk//CU46Jxcn76gqdJZaK6EkCA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400014', 'HOTP', 'jb9F4WXJ5ooOs2hkrUrsRtcVSFI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400015', 'HOTP', 'e833OtC4pU440vhGFI040Z74Zxw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400016', 'HOTP', 'I6raC+1qxYCdWeFATdKNzxyu8S4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400017', 'HOTP', 'hVJMb+MVAbcaMwVajwSpGQgcEIY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400018', 'HOTP', 'Y/5jSe2WyQIKQkR/2w73LMshFiU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400019', 'HOTP', 'vGV3w/8yURdklinvhyBd6LERz3k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400020', 'HOTP', 'CIRoLpnTo749/FetuIquttnAp7Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400021', 'HOTP', '0SWuDae5jnfywY8LPNSUFEhpmrY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400022', 'HOTP', 'ZPoq1ho5QaUp3ZksmXGO7gOz6fY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400023', 'HOTP', 'EzLdiK3xQFRMW5JgKsa45xN1hR4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400024', 'HOTP', 'SeNwdpX4uv01NIteNfSYEwazpdY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400025', 'HOTP', 'edZCPb4Nx9Fu5MDjxR+hVTQxCxI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400026', 'HOTP', 'Sf7TL2+tqUIuH/VN4YBHahDKFY4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400027', 'HOTP', '9pidZpE6zhIzpvTmiBZ8U6bSSJw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400028', 'HOTP', 'gLDJiwFCZBUI8bE2tzPBTNH/4n8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400029', 'HOTP', '3YYkXrL3nLXQLrheA1IDS06z6+o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400030', 'HOTP', 'onQoeBpJtugramVjfoplr1ytmWU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400031', 'HOTP', '7pjR7xXN3K8CLah9P6QllNbfhps=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400032', 'HOTP', 'T/JTP42BRiF1Aag1DAkBu1/+cBA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400033', 'HOTP', 'Ux/ojKabT3cMTRDybnOcJBxdOxM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400034', 'HOTP', '6LhNtcCowwCXGPq737L/18/B49A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400035', 'HOTP', 'Tz4HlzhOFuzC+4UNwPGckIRKWvE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400036', 'HOTP', 'XpAHPyq3xhsfaVlHogrRMVi2EPk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400037', 'HOTP', 'bGQqdEjWac6b0QhnbTNvG81j7E8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400038', 'HOTP', '/mxYzdw9QHd19/S/D4xPaclSuQA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400039', 'HOTP', 'HFcp368KF1Fh15XqpM5Xi999hBU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400040', 'HOTP', 'HcAsiU1+i1e0vF9AIWrEFKdf8u8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400041', 'HOTP', 'wqYQ7Gb+sJf7PEmmKPWy4NOEZGw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400042', 'HOTP', 'oLBnh/kv0M0+rcSDowYsKKmX53A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400043', 'HOTP', 'DVuVuIz4gJM1+DcupxsPm49mWiM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400044', 'HOTP', 'w6etgblhunscrvxVSEmXYCQGXLk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400045', 'HOTP', 'xpvGr6WmBAcUv5r0el5igHNNMso=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400046', 'HOTP', '8ENV6pp5UMwfSnmu7uS6DATGE9I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400047', 'HOTP', 'twKRJB8gY/jPsikNGq3wc6yGN9w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400048', 'HOTP', 'NKfKWsTK6tn0ZK+3fpOr4mXSL0k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400049', 'HOTP', 'OTDxItty9hMiHywD2qykznudxus=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400050', 'HOTP', '2YVO31gHiNuLIBLXZzIfS4xPuAw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400051', 'HOTP', 'Cxn9b9A5nr3HgUn5KXS6eS/xFEw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400052', 'HOTP', '6kGr+ghYxkRR3W0y8GVLJ85j5Q8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400053', 'HOTP', 'ti+Wu+USvCgEnHcnCLz/lsz+tDw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400054', 'HOTP', 'PNwrpUrx28ESFdgBH2ra6GLPiCs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400055', 'HOTP', 'JUeX8Qg6HwWvB3LvE4rcDXg9F64=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400056', 'HOTP', '4u0q02NxOMMyUWRhPNFmMdv8k+8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400057', 'HOTP', 'G5Wrv7Qy/+kfJYPN6QTV/qU7RDE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400058', 'HOTP', 'Pp72/UxkBk3FxoKHESj+OqEW1Lg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400059', 'HOTP', 'StexoboGh525O1UgssU5QeLnwVQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400060', 'HOTP', 'o3m6Yf6KWloYaGoTGtP5MVnsVCc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400061', 'HOTP', 'TgCyNjBctIyMqPGxf99dERa7Xes=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400062', 'HOTP', 'raI5EBFgcvobhE4Q3bBSh9mkqio=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400063', 'HOTP', 'E9NR1caFVcTIMQcGYPQH7vd/TA0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400064', 'HOTP', 'zQEYuTRDDbTVJIQCtpOvtCIILHg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400065', 'HOTP', 'zF+XjwLVFZXw/HgfSaMmPI60LGM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400066', 'HOTP', '9DFh/x7SRl+5I+LToNMhyQ8Bfco=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400067', 'HOTP', 'oftB2Nx+WGV/7tRg8lhWiAOhWcM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400068', 'HOTP', '9BtY5cbqbp1hc45hQleOr4gZSe8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400069', 'HOTP', 'Yhb3zjBcExFILZwER6djXAYTKz8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400070', 'HOTP', 'c74KnwEBmTsJzgjx82EsRrYIZqI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400141', 'HOTP', 'CeN7n9PMlSu+2WTV37RjKQ7GwT0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400142', 'HOTP', '20NLzu2jcHjoi3mmoRMlwSKGTBU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400143', 'HOTP', 'nvN62KLM2eHmZhXlQdLIg3EAPZw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400144', 'HOTP', 'vkUaWCkyEUuOB2Og5FZT049AgIA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400145', 'HOTP', '3ydwBjYfbUTvKTGjfZ28rNCKEXU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400146', 'HOTP', 'SDQnldkfwE9mCoF1k7N4QqJZhzY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400147', 'HOTP', 'C5FjzkO5bNWhzflEaKI6Mkj3dJA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400148', 'HOTP', 'UNB/uF6h605HnrEGBH7BRbbziOE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400149', 'HOTP', 'G10mOPEfWku89KzvRbQn4xJRNoM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400150', 'HOTP', '8p08K/balS6Zg5LAzuYS5t1ler0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400151', 'HOTP', '1fcWT9DIhJmQrG3JX1eLMD9thCg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400152', 'HOTP', 'rV2nWzDS/vo5Gl45DM2TCMQWseg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400153', 'HOTP', 'AoPENVZmdvF5efBYoSXqW51zpQE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400154', 'HOTP', 'k6XuVpJevXSk1SVpKaZXPQ5Ckc0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400155', 'HOTP', 'cccisKkadyZluaziuhNp6oywVME=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400156', 'HOTP', 'aKINO1tmuodKJnmBLdQtIAcEO9M=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400157', 'HOTP', '5rVmhS0hEuUTn4X0QzP4gJdmLxI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400158', 'HOTP', 'sqbQyCABFZ9h4/hZ5dsPD2GZpRA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400159', 'HOTP', 'al0SjoSm/fVjmxORuj+JNMLEJbw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400160', 'HOTP', 'vnrSVYVYkQJpvUPT6LpoxpzjJYI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400161', 'HOTP', 'XvouCUyV5hv5Wypuu506vpPq0lo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400162', 'HOTP', 'MMe/VgO+6NiiQvXve0TpZ1iIHKM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400163', 'HOTP', 'IAEQJ/wLs9zrBr+TLTOtlATxCyI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400164', 'HOTP', 'foUKLXhsq1lmc7LPRmvglRXbj/0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400165', 'HOTP', 'LDlvdUBxT85GVTcBMJlujZzXRXA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400166', 'HOTP', 'l4lXCUJ6kyJ7p6gByO8ODgXu/aE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400167', 'HOTP', 'Zh5/+tJKp7M/qKUyFAK6yOMjf+4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400168', 'HOTP', '/T2ibX2gtOg7DacBpP+70AKiXLU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400169', 'HOTP', 'JG6lXf4Bot0Mlmd9pySlC0UxKUg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400170', 'HOTP', 'uvxsCS/ifwf+NSJ6lJigXfQ1xwY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400171', 'HOTP', 'wOBAuKYK5mTJsA/sJ2lEdO5Fl+E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400172', 'HOTP', 'YBZihquYvTKMw9BNZy//FFozhcE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400173', 'HOTP', 'YzvT8sLbtG7E2ad0otUGRaJoKZ4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400174', 'HOTP', 'iX80HFftf+osktFGs09c3M/A4/o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400175', 'HOTP', 'J9fgrM9zMqMAIXuGAdi5j8c2rc8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400176', 'HOTP', 'pIJOeodHxcyb2Zb3vRzsky+v7D4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400177', 'HOTP', 'lPoYHONuHB2mAzO1Czz1NJgNLBU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400178', 'HOTP', 'yiOosMTkvjT9LoKXE4g/d8L2qyo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400179', 'HOTP', 'trmW0lk27kBrfeUnra9fSNzLwEo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400180', 'HOTP', 'Vmmm736MLHiGshw5Ax/pd6k151w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400181', 'HOTP', '2ZRCV0K5Qbv8gDR3wFtEWc7PYl0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400182', 'HOTP', 'Zk/f6HkRmiZgQ3SHhNI8UdzHOXk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400183', 'HOTP', 'O/gS/ShvuOxxGAEXuQhVPEYt1ew=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400184', 'HOTP', 'ZFj+Ly6tEnKyebcdH/zuGuWttxk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400185', 'HOTP', 'g/F2lyTMVFxZTLrTrJMSZlo/rfk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400186', 'HOTP', '2Q2xz7aC3ZftLU/6fb4/1qEzvEM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400187', 'HOTP', 'ONcBSUa/zcykhpfBr1t58L8Pp88=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400188', 'HOTP', 'qY+wQNlPfa/sJhVXVxuvi1YSL/I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400189', 'HOTP', '95ShAtKl1hgHT1mEP1nI3mv9Vgo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400190', 'HOTP', 'cKEZA0Ti7e2/zvMlJXkJ6aORV+A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400191', 'HOTP', 'sZRZodsP/YOXd70/KUdfzdiZtv8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400192', 'HOTP', 'ulusOY/cQseLMbdKM9YCG/Owuv8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400193', 'HOTP', 'ot/XAqhlaw3qqtrq7k4O4X72yko=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400194', 'HOTP', 'vyoPQf1uL8Rlc4shJsOmO0XGw8U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400195', 'HOTP', 'LdBeZfuug57RSRNdNipxb+Vu5I4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400196', 'HOTP', 'W7/JF5y2GkOHnH/Li6rTse5OSG8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400197', 'HOTP', 'YZdx2mDSAFTiMsctWi2KeGQAht8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400198', 'HOTP', 'wOkd7pE0eO5pCdd+RNwjZcLGiPI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400199', 'HOTP', 'gtJ66mJD1/Vmi2eGPhCFelNkHT8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400200', 'HOTP', 'lCy+6v+NrLC1qB+WhDlcSxMGhcI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400201', 'HOTP', 'QCwKV4fX6WmU+dvWLUmjR87U32E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400202', 'HOTP', '2MRc6grGvJns8YhoalN79D+raRo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400203', 'HOTP', '3CejIp1pm98RgI4+ktb+89Hzrug=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400204', 'HOTP', 'WLvZ0Zm9KiEjVPBgoG5bHiEEEvI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400205', 'HOTP', 'Rw+WpmJQn4F/wqP/bCYgfVrdbvg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400206', 'HOTP', 'nASfM7ehQKOv5TZvAs8Zyg9Rwzk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400207', 'HOTP', 'boGTY2mkQSZi2SjP4FpO02319Y8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400208', 'HOTP', 'p76FhtgYDvs/Jb2Vd9XPi2OxFZk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400209', 'HOTP', 'x0nAFyIIS59SXmAyI56PnVfEhUI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400210', 'HOTP', '2A0vdgP3/GjXaXOU//Q/xzLq160=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400071', 'HOTP', 'd9EqY/ly1qZug8/h0TnokDZYQYg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400072', 'HOTP', '6GBszmu3lJBTPKF1G6sBl+QInUI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400073', 'HOTP', 'zDcwxOhgcmLUwPAzJrRFzqNbu2w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400074', 'HOTP', 'NM7uFx5kp7Ka5FKh5YNvnFt1muM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400075', 'HOTP', 'xkxLFghetk+4isyHX+iKrVbWKuY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400076', 'HOTP', 'k8KEb4hl8yTt0qXaUhufEbVR21M=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400077', 'HOTP', 'elF9KPBhBX/dAPr/ie0Hn6AAAP4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400078', 'HOTP', 'eXnXi6kxLSOUx4Te36zcjuJUwjI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400079', 'HOTP', 'WjxMn8hN4mSrwfmEtkSQyUSQ3Ns=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400080', 'HOTP', 'pfDaGIBXzad1xayvrXTbyYdfg8E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400081', 'HOTP', 'B3JM+h4dRNex4Bmw6P9i6Ix6wf8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400082', 'HOTP', '6xBuczFnAFU7Ecjy85oaBh2Pyi0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400083', 'HOTP', 'LrEhZg6xrK50n/h2NHdbEQ0L+BY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400084', 'HOTP', '5R4IsNBp59BJmbm5ipa2TLAyjdg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400085', 'HOTP', '1/WDkPmN4WGYC1hngIPc2360ohY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400086', 'HOTP', '4IkF3Z3zrga3gE5ROD/lBRtj7Nk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400087', 'HOTP', 'C64j+NSzX5BcwWvXZ9jWKm7GVCI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400088', 'HOTP', '7ZwK/QGWnQdTLZ9utP6rvfvlKWo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400089', 'HOTP', 'Q8ORmiET0+eOD4aflpVtJQ/5W8s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400090', 'HOTP', 'O9gXz9BjWNKAqYmllkakul4447U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400091', 'HOTP', 'YJbUfPPSMq8DBXHreSe9JHyMKG8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400092', 'HOTP', 'NqVB1MFpOmK+UJ7gXGdWbPp1qLI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400093', 'HOTP', 'Bi2/USTnXumN6p2X1Uq0T7aYb0A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400094', 'HOTP', 'mg13nmiSApj7PfBwrtkJUFTbuY8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400095', 'HOTP', 'QYXYaaS5M4EB2VA/mVxlRXMIZJs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400096', 'HOTP', 'Sqvd0H1f45vgJgQdrAWjfkk4WsY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400097', 'HOTP', 'qAFjv49UJ3Rt4c5v2ADfciV7lXA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400098', 'HOTP', '3obn/lZsxMzD7P4fjUn/O+IES38=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400099', 'HOTP', 'IK8YTxSD7sQc0O8gEWFb+mWrywI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400100', 'HOTP', '031pUteqvHMBPSdB/1Ssnt7VJ+w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400101', 'HOTP', 'WBGoeDnMHdmhdD9PbAhWcF0vo/Q=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400102', 'HOTP', '7zVlsu7mg/Xn/A6jaPxS0Y8qvSM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400103', 'HOTP', '1nf6nXLbC47Rm0kHhnpamRFQPSQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400104', 'HOTP', 'gowlVG3dEGCshuA+dcR3p8qhhjA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400105', 'HOTP', 'n2nTzqBtepVFxkuVFO4mBKJb78k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400106', 'HOTP', 'Uf2Hh82M8VqQEGI69VEyETWrb/0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400107', 'HOTP', 'MGj/QTV+54RRh+wxLBL7pf/Zi3w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400108', 'HOTP', 's6d4kqzhJltzBoWi7s4CziHX2es=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400109', 'HOTP', 'HuSLRZBpSsKal01/A0aiYK+AvgA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400110', 'HOTP', 'qikfn5Ks+lJL1nX9CIxYePFeL80=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400111', 'HOTP', '42GC9mqCbrgxRVBUCXTR6MmOino=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400112', 'HOTP', '1DyWX5hRefZfQJXfanVCQ4uvKzY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400113', 'HOTP', 'CSyF9PC+XZBErNhRtJ0goriW+7E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400114', 'HOTP', 'W1ZI8WBhNCfAxEM9ej9pwv5/ZPM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400115', 'HOTP', 'ufvXfbHt+/EewiAhJF5wUJs433Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400116', 'HOTP', 'fp8okGOw92IhKJqSWLT+A66nZDk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400117', 'HOTP', 'BTg6YW6/xKj4nDAJKH/j7ByMAEo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400118', 'HOTP', 'T+GFmKw/MNbyzWjC0GaUUDDFF0s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400119', 'HOTP', 'FQpUlG3tDWnIPvIpTmLRtr8ceBI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400120', 'HOTP', 'RJaPquoIszOGyiwI1oGVBdtCS+A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400121', 'HOTP', 'GLEPaCS1MuhoJY+80TC2llqjGLw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400122', 'HOTP', 'QIZSnoDgNxT5z+Fpx7OUjtOqc4k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400123', 'HOTP', 'MbN13chw7addeJsVgn7kGPdIYQo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400124', 'HOTP', 'ql/FvaGKzSsPjJBXF8f3KTAZxms=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400125', 'HOTP', '9wdjthpOqs2ZrbHKzfSEsHMH9vI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400126', 'HOTP', 'QeRvCqctr745Wr0MkS2QWhc7Z4I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400127', 'HOTP', 'uTdR+15RHOWjq0zlIfbEknUtqMQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400128', 'HOTP', 'UclU501sTWcK+/EZ6sAI5UhkV18=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400129', 'HOTP', 'dFcRpIjC5hogJdsAetsLUCHpClE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400130', 'HOTP', 'W368Fj1hn5GzztkRFOpLNtmo8Cg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400131', 'HOTP', 'F8W/cWIy5FklfFq0f7oYEqTZmP8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400132', 'HOTP', 'BBYnZitfudXUAJHbCBNxIiSnFcM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400133', 'HOTP', 'GEvR9ZdaUh53AUxm9xF1PE8J7ok=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400134', 'HOTP', '18CkYvBtLj7wNfVXoMSLJZMtdNw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400135', 'HOTP', 'FQ6sdwmi9+S3cuKQ45Z6qFFR+5k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400136', 'HOTP', 'O3GF6aiDtUAWEfTAqAoPLt69gKY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400137', 'HOTP', 'RGUaV+fFtL4w9UZoGGZ3h8HUyhw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400138', 'HOTP', '7w0SRzZgirxx6/612uAlLAgBxoA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400139', 'HOTP', 'adCO7Jx6LP/lRLJJMAF9i77pjS8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400140', 'HOTP', 'GfSW/+0QFKhhXv8o98fp7ehZD68=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400211', 'HOTP', 'Ac0iBFzKWY+D3aPTrN+7Mtpoadk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400212', 'HOTP', 'HKl2TOTs95OT/ecAN8tT21X3z6o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400213', 'HOTP', 'UHkQ+qmxq+t8YolayehOpPmz398=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400214', 'HOTP', 'kHDvxGTP9qGoZRFb/wI3ACnxbh8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400215', 'HOTP', '0hDKTBmIr4AWVU40Q5ylox2V6T0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400216', 'HOTP', '+8V/TVROkNow2dm5rKKz+QBo1jA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400217', 'HOTP', 'vKXKAMJROamiJmDqEGFnf4PEZ5A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400218', 'HOTP', 'EI20rFXxS5q1IG3pvhRKIvRHlE0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400219', 'HOTP', 'KmfKuXG0m8PHsQF1ms126C2fAWQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400220', 'HOTP', 'XlgpdU6IvTyyr8ykfE8sdJpUMsQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400221', 'HOTP', 'IUXp7zQ5qBr4GqbmKv3SCcfkM1c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400222', 'HOTP', 'OZMcAFWoAitZFLU3XwquGIug3qY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400223', 'HOTP', 'xi13uqSJuPwtYNXsRxgenrAbsZA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400224', 'HOTP', 'NWpQVC7dnv35Kjnp27qvDoWvYBs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400225', 'HOTP', '46NeUBxHJoUezraWY0GwzAlZdeQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400226', 'HOTP', 'spmKhmhiZnyf6mMc74IabM22yC4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400227', 'HOTP', 'Knal5CMbGXfs+GQrgyrlS98ebok=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400228', 'HOTP', '2/7lbIWoYEyq16qzOFoGlwgL/v8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400229', 'HOTP', 'eOXbHIYrPsSoCDRprKSro0VK0yc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400230', 'HOTP', 'YCMerft0jVimtSxmGgJUNFqxFY0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400231', 'HOTP', 'aarhxTAABgV6zDd7OYEWaH/o9Ac=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400232', 'HOTP', 'F+CW38ImT0QS6DkHB312MYcuX9o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400233', 'HOTP', 'v0+XxTTwVy9zZADsb/x6S0n7tc0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400234', 'HOTP', 'CWuFCtSaysX68cFqT1Mr6Taf8Y4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400235', 'HOTP', 'qMG/rWyfTVOPswr+we4OrlelTlY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400236', 'HOTP', 'eP7VTI0XYYFR/GNBTSquIGvrC/0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400237', 'HOTP', 'RJKmNUBCkCHpN6Og7HSZjIvoRnM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400238', 'HOTP', 'QATfitthzicYutpFHfPnfkpMTmg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400239', 'HOTP', 'OLVy4bxB6TAzTnaIoM0zWIGctWA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400240', 'HOTP', 'WQR9hmLsTjR/3H2/FSQYAdJ4whk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400241', 'HOTP', '9plKZ2RlVqoBOkmFO+V6lTT4zjQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400242', 'HOTP', 'EFIcS5TxoZZgVtkspc+IEkhOgNQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400243', 'HOTP', 'WiFYRP3Z1959YCwXw75flLEZ/6o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400244', 'HOTP', 'H1KzPPJEdJKbDORyJ7cp3EryT9A=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400245', 'HOTP', '49spnpexmXpL3yqIq0Kuz37nru0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400246', 'HOTP', '2JtlOst3Rmy6cihOsCpug5j/EpU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400247', 'HOTP', '/4TyOHg8HFZNBRIS86M2jb+tCbs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400248', 'HOTP', 'v8FiZW+WMLC8gIwwM+c6DKYV7Do=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400249', 'HOTP', 'xOuhpgVjUNnfU+dvHPwig9Fh0eM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400250', 'HOTP', 'JYhnIOfogMlvU5h+MNHu12VWfo0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400251', 'HOTP', 'UlW+6VxEM2xCI6ZxuD3/CPBlKRs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400252', 'HOTP', 'EWKuGEPA/l1JfhG44Qco7q0gxYM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400253', 'HOTP', 'ijujKItx67jGJ2Er9DNlna2i//o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400254', 'HOTP', 'RLL7fTzEzKV183dqw2ZFAfoQH9U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400255', 'HOTP', 'mLMhpUdbOka0ATEfqEmeBhvXOBY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400256', 'HOTP', 'QV7BFQt7ONEdAUz+fnZQrpLUorY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400257', 'HOTP', 'OJwFMUcAe/8rgv034/FELc7zhe8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400258', 'HOTP', 'wtbVjZrRKXeTvuWv6i9UaP7gd2s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400259', 'HOTP', '6m3yWmySUk4+bS4Vq/QK4jk6PmY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400260', 'HOTP', 'ZKfUpyZDm5BXiaJ7uT9nty6XqXE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400261', 'HOTP', 'TYmZMpdgCUzwq4Sk94b8o9UiJ/Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400262', 'HOTP', '0pIaoBdhxTNsvjfvWAUyVwME3qY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400263', 'HOTP', '8hZGP0zv7+Iy/fygYNJzv3KWXxM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400264', 'HOTP', 'zwkieXeKxuxELYkNzHorgFv7WQI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400265', 'HOTP', 'wRCgQz85RH4CQs0GRZk7T/9nPI0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400266', 'HOTP', 'AnisZwRapVCwRS/jjhlHnZqTyl4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400267', 'HOTP', '69rTdONghJ2SyLnCkylA2BPgN4w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400268', 'HOTP', 'VVavZvMRN46lkP6z+FK9mKUWllg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400269', 'HOTP', '9A6E2Mtr7iXVTsJg6lu64yGPmXQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400270', 'HOTP', 'FEV6ZqtsKNfzTmShf4pDmhU2y/E=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400271', 'HOTP', 'm4mRvi+THOI05QADy2IXb1/cBlE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400272', 'HOTP', 'mZPCYVwO37xGmuVH6ayw/FY0lgE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400273', 'HOTP', '9cFN+8PfZwf0vi9lI/T5XThEyTY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400274', 'HOTP', '/o3zHGRcYOHcYFdGqhfik3Oo4DI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400275', 'HOTP', '9JWhMWinEEMedc+HgqHkvvpOhkg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400276', 'HOTP', 'tZrzpakLRwOcO/5GZ9lG7/9T+fM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400277', 'HOTP', '3MrRsj7aCf6jkaYZIXd3VEiQyhg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400278', 'HOTP', 'LhpXLUXZzgTT1lOuvS9JyoPnT6c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400279', 'HOTP', '2wGC39WZNnAcwQGeuXLYMG4flBA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400280', 'HOTP', '18OzK4LRFP4w8RoKMBiIpjaoTlM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400351', 'HOTP', 'ngtcxqE6yG+ebT+VKQkP14z++1g=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400352', 'HOTP', 'lQ+Um9+1opm9uCutNwBJU2+hfE8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400353', 'HOTP', 'c5/83+1iZYlAOtGnUlA2Np+AbK8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400354', 'HOTP', 'iO5qZoGOlrcXSLz8FtaczjWphf4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400355', 'HOTP', 'hIM0X1P0y6LPZV2Mc021+jKb0eE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400356', 'HOTP', 'Qf1WlzQZpNKIk7YHYJbW20O3+60=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400357', 'HOTP', 'rlJaHl2lIBaY3iAY/RjS3qxadkI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400358', 'HOTP', '2Wg/ImG7dlTbic5jMo34IDE7f+Q=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400359', 'HOTP', 'zDvnplU92+36x/fHif76QlzwyKw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400360', 'HOTP', 'zrXVYLmpMXOUPd0IWWqKu+qRPkI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400361', 'HOTP', 'fdQfdRYKkqTxuPo5qWmoDFp1T/I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400362', 'HOTP', 'vTOPlA9Sn/MqvqJh6/xtvzQRjCQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400363', 'HOTP', 'wIp2wnT6t+PWstVCHmbeXUc1mzM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400364', 'HOTP', 'i6/FXzhwcGGxaJrTcr8ezUyvW4g=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400365', 'HOTP', '3MNP6JcFqCXHnVVVtmgzBgDSW3g=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400366', 'HOTP', '0mh55Sz1hNDAtEWWYOcbF44MIyA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400367', 'HOTP', 'N8YI/eJ5jVsjAmPdocbm1OUs3PM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400368', 'HOTP', 'ApH7+PDp0ZA0mntr6NddlI+CSa0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400369', 'HOTP', '2hQ/zNCsIJ2f7CS9/xBwwKdHpJU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400370', 'HOTP', 'RCy9x+cYmvnSoHXAIsw701DcwCA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400371', 'HOTP', 'j22d5lIf9tWltD/nM5ins7xhkic=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400372', 'HOTP', 'H5wCXJ3HupmELw1UMi9IVe5nsLY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400373', 'HOTP', 'q1OLiIDi2Z24JxDe7UTPJ8V9i+4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400374', 'HOTP', 'aFTjrqbFM5Zqwh+SoieUzPPxn88=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400375', 'HOTP', 'd+CCB2xDQbKXu+vIOHckaoRvtRw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400376', 'HOTP', 'FsrtXQI/eKZnEna9QnVGzqcp17Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400377', 'HOTP', 'c0VyuWcX9b7/Hcy5GF52qoIcwt4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400378', 'HOTP', '2d2is02KAhczQKdyHGoDt/d2BdA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400379', 'HOTP', 'rD9EjExuPCnOrhUh0fCbKZ8xces=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400380', 'HOTP', 'MqRtYnaKR+6SLl04QN1kP4uu0k8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400381', 'HOTP', 'Yt5xi7cRoTERkAn9nOwAvPy0DF0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400382', 'HOTP', 'GOgAlwzwvCcVV6In7PPH1HyTPc8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400383', 'HOTP', 'dl7dSEiCkmyuyg6fV/78TU+BgbA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400384', 'HOTP', 'BTcGIfZZmGv/H7F8Se8LVJ0T/WM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400385', 'HOTP', 'hOqxRZEhsSTMzufSspXIvDhpIJY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400386', 'HOTP', 'rEWRE4wEII3lMV05jbTRIkvw7lw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400387', 'HOTP', 'zGbEkFbHC5RvjyU10B/8fF2ahk4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400388', 'HOTP', '4tRJGNWo6r3n/si6oBkWg4mA8jY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400389', 'HOTP', 'AI6+8nhluLirLDBdnTIsRjeegnY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400390', 'HOTP', 'A73Vwgzo+EFRYQFBDTZU9IWQPMY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400391', 'HOTP', 'jK36UIJBSNw8KMGaDjXl0ec5IYw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400392', 'HOTP', 'RCiZNznPewwXDjxN9PfUqX2H6j8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400393', 'HOTP', 'llMFPkTZ3CJFa4+5FcTljLCubWY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400394', 'HOTP', 'mudxS7T+aNZubTe9ZMYT/FoCWFw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400395', 'HOTP', 'GpeCiyhgVizY4EA2kHr6cubsjXM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400396', 'HOTP', 'kp/+P7hWs4dRO50TGtYeYXrX7Pk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400397', 'HOTP', 'PJqjbEYbGTPq6JrXYfuVRjPQE7w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400398', 'HOTP', 'ZSBwfXSv9AxQZV9AFcg6Ql4GnLA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400399', 'HOTP', 'DYqdsUwSTx60uom2f/k4FBjGlXc=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400400', 'HOTP', 'BUz7VWk/g8G0QyskO7GBfgWPjJo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400401', 'HOTP', 'cUZaOY+3SAbz0nrEqJ+9mi4Yf+Y=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400402', 'HOTP', 'MGxhJEP4kg7UfSElIw165mWqH10=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400403', 'HOTP', 'AzRsIgyf9hhai45sc0fXKcYhPRs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400404', 'HOTP', 't7OXL3fkWbfb30QLZnpsunnFl/k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400405', 'HOTP', 'eDj4GzoebJn1sG2ntdleG1wii/Q=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400406', 'HOTP', 'fOs8VmGbbE8GU6MVtkeGqdVMo1M=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400407', 'HOTP', '1mjuhbrvj1ts6Q8jHDhfd2X/69k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400408', 'HOTP', 'jIP7f6io/Rye9uIF0T4au4ee+oQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400409', 'HOTP', 'mtLj+J1mT6h6MnW8G4Kfaxvlz4U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400410', 'HOTP', 'bTsTikg92y1H7zSVZ4tjJgJadiU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400411', 'HOTP', '8Rz9PPkHahpbM7Avmvq+UP6fqzU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400412', 'HOTP', 'D0DjMY9iVgqrnO7faqBa6egv94g=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400413', 'HOTP', 'NNmPtEh7bBk2GzwAO6i5gZmcbfU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400414', 'HOTP', 'iTu8n/m+Q7k18c4kRJeVcpNc1kE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400415', 'HOTP', 'PVKM9MxjYkUNGPdLuGI3MAKOKF4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400416', 'HOTP', 'jer9TQv22L1FZyFF2A+5cTpOuZQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400417', 'HOTP', 'IICEN8MJ5/qpYqaGbyCMfsCGyZU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400418', 'HOTP', 'A0BBXb0fFS4bGFKc6ItvAOmbRpg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400419', 'HOTP', 'rD+pi3arJXZhN6PbRZ11FShbXYQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400420', 'HOTP', 'ovUYanwBViXE+4PKmlKO5DgjbZM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400421', 'HOTP', 'Aj+yu/GUoaCu+N4DN/cvBXEk0lY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400422', 'HOTP', 'O+q3zyPAFjax8WlbQgwxvQScoJg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400423', 'HOTP', '0TbPsBu2gj+uOopIJIvAOINIIxs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400424', 'HOTP', 'JGqyAvcjikBClAxt9X7Ojz8TVik=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400425', 'HOTP', 'O/sTeMWe0p2FPlLlCp2MGMIoIuY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400426', 'HOTP', '/aVJwl8wFnWDOb1Bd2kceUpFKm4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400427', 'HOTP', 'BoLU8T72DKj0Lqc6FdOk5vXlV9Q=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400428', 'HOTP', 'cwL7gcdi2qcp+d1VMMdQnuHQl3U=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400429', 'HOTP', 'iHk1wnQvh3hmb4LYTJc81YaVo54=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400430', 'HOTP', 'cHNh2Bf7njYjFqiMmajoQSi7OdU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400431', 'HOTP', '6OJuDCYjTwJTggEtWqBMXIiqxTo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400432', 'HOTP', 'zsGiiGw0BmtFgM1VXOIuk040ogg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400433', 'HOTP', 'njlQg38Sp13aY93408ojCLoveBo=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400434', 'HOTP', 'a65HpFLhLjkz/vTWxumlc8VhnQQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400435', 'HOTP', 'V7wjO4C+kLZrlB3T0o/3Rm0U9Nk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400436', 'HOTP', 'iVABJq1ZhPpKnve0EJKAo50XN3g=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400437', 'HOTP', 'rxGdzfXiWLnV/rHMqMKOj2HsypI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400438', 'HOTP', 'sdZO+4sXD+zn/zZDRlgqrKpMFeY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400439', 'HOTP', 'N0K8oeTG8sYfkNaJ6r0T+Yza+RE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400440', 'HOTP', 'mEQlYR92GUYOUJDQ8tx9xJ2ZR2c=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400441', 'HOTP', 'p3y6T9a0NsmzLayhoBvkT4pTI+8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400442', 'HOTP', 'bG03MammwbSf7HWNDZlzjPbhPqs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400443', 'HOTP', 'gB/YXlRfe66mONDH6AZi5Imc+5w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400444', 'HOTP', '9AQD7m+c4AUcWR7t+UwbdJfaofQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400445', 'HOTP', 'Fp5CcIY2qmAAteRPhz4i9GYV4R0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400446', 'HOTP', '60ME4nWxJd7HodXNasr7DmOWXAU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400447', 'HOTP', '78mZ9tYKRdNKOQwIDR9a2QYLBQg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400448', 'HOTP', 'oRTzs703oUoVGZ/ftpT0X7zrbks=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400449', 'HOTP', 'ZTbmFIajDQ3beeoYiU3cuMF5S4s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400450', 'HOTP', 'r8A4eJiC2XC2LjZVsd2A5hJ95ps=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400451', 'HOTP', 'y3l9p9YMzApcE8PsQeWJJ9hIumE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400452', 'HOTP', 'zlHJHQE0+2PpE56QVyVUa+RA4K8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400453', 'HOTP', 'mXXLFHBA7wXi0kq5Mwmzv2Y9xU0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400454', 'HOTP', 'UFBYQ1+CKALdeRRM6C1lvykbJaE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400455', 'HOTP', 'gdu7HT2LsQIY3ZGCt3qdsp0YORM=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400456', 'HOTP', 'Dc4kvD+Og0VWvyTbPcwjXVo4kvs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400457', 'HOTP', 'MD2aK7zdrzy2ln+R5ocYQ3AS05w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400458', 'HOTP', 'Z6J1oCBZXDn6K60t2nvfSv2iGP8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400459', 'HOTP', 'R3ZeLXNySYHawM1AdyeFHXPYv1I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400460', 'HOTP', 'lNJzO4ckzDsS+h8QScw48zZwAzY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400461', 'HOTP', 'QUcYhz2zEJ7ztu5xtvM9+nUfcP4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400462', 'HOTP', 'bHZWYILA3DJBj+42Blf6pzMfJBU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400463', 'HOTP', 'TRivvwjieb0l1xgwL9vUBQKkk1I=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400464', 'HOTP', 'YUQbVBcVeIPo65SqVZ/fWzW3fjY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400465', 'HOTP', 'VZrO86FbUUS8PF8dhlTWmuwVCg0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400466', 'HOTP', 'lvVWmaKPU3o7/uxE6IMnRFGaRWY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400467', 'HOTP', '4z/wWMU1DB33YgMYiwAfQHIX/6s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400468', 'HOTP', 'fUd8QiYcQKQh9csaEH5OE8CFkq8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400469', 'HOTP', 'lgyrdGaoF9eg3f5isRK7fijHga4=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400470', 'HOTP', 'aGlLsPV8daeOmLrMdnjueNfYOZs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400471', 'HOTP', 'ZswzeDwCWz5Ir7MZylWApCfBu0s=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400472', 'HOTP', 'trz4vKSgRFXpJ7aBiE6SANqrWOU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400473', 'HOTP', 'URC4JBJ4PrcNVC0mixloMhN8YVg=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400474', 'HOTP', '6Cc5wdk+Y1rDRQrBQ/p1kN/wiKA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400475', 'HOTP', 'k7Cc8/s/2+TLHAFvknq95ad2XIU=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400476', 'HOTP', 'FHM6nkesb8bHQFH2foCBCYtJ1g0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400477', 'HOTP', '4Ohsir80rmDyCJd3sWwHLTUqsYA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400478', 'HOTP', '22yZx8doaI/dKEo7DlW8aAfTDfw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400479', 'HOTP', 'gTtQQJYKNs/jds1+MMuCt2w0sK8=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400480', 'HOTP', 'nMqWRtVo3mL32H+F9/mcqGd/EYE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400481', 'HOTP', 'fIEy4E09KQK69ha51i8y011YFUk=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400482', 'HOTP', 'i8Bigfi7TQuUfPMJJ9XAcIcaDnw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400483', 'HOTP', 'JWN+aN1oGH6Uv9zki9MHQvADzVs=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400484', 'HOTP', 'iALRoinUqoQvYj9DwQK+P4AQWNI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400485', 'HOTP', 'reNRBbwSJBuH2QW+2txRF45bhGA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400486', 'HOTP', 'pjPGF/Z5RjpCoS3UZu76GiLqbtY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400487', 'HOTP', 'gOtbGSA3KnkROQqmNwYwQW1pptI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400488', 'HOTP', 'Dlw+yKxClPvDIqaC8pOxGTu4yPQ=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400489', 'HOTP', '4OZRM7qPKvzJwI3oncHxEc2xzpE=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400490', 'HOTP', 'hYVOvraxCMTk76qEgY+FQ+w31wY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400491', 'HOTP', '0Nh/uw09OIFj4ne3zL0Y5+etwGI=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400492', 'HOTP', 'ykNiEW6g6ysRFTGwkD28GwKcig0=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400493', 'HOTP', '4EX70w8aInENb2BausBfPoqf73w=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400494', 'HOTP', 'oLUAhTgdACUWA3IMPI+hzieKWkY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400495', 'HOTP', 'e+Tv2PmA0sqONw6xYUSjbys7k3k=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400496', 'HOTP', 'OVpfAgQv1C5DWj1vDGVuyJkL6wY=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400497', 'HOTP', 'Dyi1TUG5j2RaLRj7nSV160Rpc2o=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400498', 'HOTP', 'j4quGRJJ92/EySZ/9Oupfak6Bhw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400499', 'HOTP', 'upaBborY05RrRSq5CCobvgwutzA=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);
+Insert into OATHAUTHENTICATOR
+   (MANUFACTURER, SERIAL, TOKENTYPE, SECRET, PARAMETERS, 
+    DYNAMICPARAMETERS, AUTHID)
+ Values
+   ('FeiTianOfChina', '1008524400500', 'HOTP', 'NOmZQe0CZMrBPGw4SNOr9TAl9Tw=', '{"Digits":6}', 
+    '{"IterationNumber":0}', NULL);

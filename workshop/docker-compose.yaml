@@ -1,0 +1,83 @@
+services:
+  redis:
+    image: redis:alpine
+    container_name: redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis/redis-data:/data
+    environment:
+      - INSIGHT_WEB_PORT=8001
+    command: ["redis-server", "--appendonly", "yes"]
+    healthcheck:
+      test:
+          - CMD
+          - redis-cli
+          - ping
+      retries: 3
+      timeout: 5s
+
+  redisinsight:
+    image: redis/redisinsight:latest
+    container_name: redisinsight
+    restart: unless-stopped
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDISINSIGHT_HOST=0.0.0.0
+      - REDISINSIGHT_ACCEPT_LICENSE=true  # Accept EULA and Privacy Settings
+    ports:
+      - "5540:5540"
+    volumes:
+      - ./redis/redisinsight-data:/db
+    depends_on:
+      - redis
+
+  postgres-server:
+    container_name: postgres-server
+    hostname: postgresql
+    image: postgres:14.6-alpine
+    volumes:
+      - ./postgres/data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=auth
+      - POSTGRES_USER=auth
+      - POSTGRES_DB=auth
+    ports:
+      - 5432:5432
+    restart: always
+
+  init:
+    image: python:3.12-alpine
+    depends_on:
+      - postgres-server
+    environment:
+      PGHOST: postgresql
+      PGPORT: 5432
+      PGUSER: auth
+      PGPASSWORD: auth
+      PGDATABASE: auth
+    volumes:
+      - ./init/init.py:/init.py
+      - ./init/init.sql:/init.sql
+      - ./init/authdata.sql:/authdata.sql
+      - ./init/authhierarchy.sql:/authhierarchy.sql
+      - ./init/authids.sql:/authids.sql
+      - ./init/banhistory.sql:/banhistory.sql
+      - ./init/createauthidtemplate.sql:/createauthidtemplate.sql
+      - ./init/datatypes.sql:/datatypes.sql
+      - ./init/devicetokens.sql:/devicetokens.sql
+      - ./init/hierarchydata.sql:/hierarchydata.sql
+      - ./init/hierarchypermission.sql:/hierarchypermission.sql
+      - ./init/hierarchyrole.sql:/hierarchyrole.sql
+      - ./init/hierarchysettings.sql:/hierarchysettings.sql
+      - ./init/loginccode.sql:/loginccode.sql
+      - ./init/oathauthenticator.sql:/oathauthenticator.sql
+      - ./init/permissioncatalog.sql:/permissioncatalog.sql
+      - ./init/permissions.sql:/permissions.sql
+      - ./init/privatedata.sql:/privatedata.sql
+      - ./init/rolepermissions.sql:/rolepermissions.sql
+      - ./init/roles.sql:/roles.sql
+      - ./init/rsakeys.sql:/rsakeys.sql
+    entrypoint: [ "sh", "-c", "pip install psycopg2-binary && python /init.py" ]
